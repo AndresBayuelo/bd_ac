@@ -16,6 +16,32 @@ ALTER TABLE imueble ADD CONSTRAINT imueble_conjunto_fk
 	REFERENCES conjunto(id)
 	ON DELETE NO ACTION
 	ON UPDATE NO ACTION;
+
+CREATE TABLE servicio(
+	id SERIAL PRIMARY KEY,
+	fecha DATE,
+	descripcion TEXT,
+	valor NUMERIC(10)
+);
+
+CREATE TABLE historia_imueble(
+	id SERIAL PRIMARY KEY,
+	imueble_id INT,
+	servicio_id INT,
+	fecha DATE
+);
+
+ALTER TABLE historia_imueble ADD CONSTRAINT historiaimueble_imueble_fk 
+	FOREIGN KEY (imueble_id) 
+	REFERENCES imueble(id)
+	ON DELETE NO ACTION
+	ON UPDATE NO ACTION;
+
+ALTER TABLE historia_imueble ADD CONSTRAINT historiaimueble_servicio_fk 
+	FOREIGN KEY (servicio_id) 
+	REFERENCES servicio(id)
+	ON DELETE NO ACTION
+	ON UPDATE NO ACTION;
 	
 CREATE TABLE persona(
 	id SERIAL PRIMARY KEY,
@@ -49,6 +75,48 @@ ALTER TABLE vinculacion ADD CONSTRAINT vinculacion_imueble_fk
 ALTER TABLE vinculacion ADD CONSTRAINT vinculacion_tipovinculacion_fk 
 	FOREIGN KEY (tipovinculacion_id) 
 	REFERENCES tipo_vinculacion(id)
+	ON DELETE NO ACTION
+	ON UPDATE NO ACTION;
+
+CREATE TABLE tipo_usuario(
+	id NUMERIC(2) PRIMARY KEY,
+	nombre VARCHAR(20)
+);
+
+CREATE TABLE usuario(
+	id SERIAL PRIMARY KEY,
+	tipousuario_id NUMERIC(2),
+	persona_id INT,
+	nombre VARCHAR(20)
+	--contrasenia
+);
+
+ALTER TABLE usuario ADD CONSTRAINT usuario_tipousuario_fk 
+	FOREIGN KEY (tipousuario_id) 
+	REFERENCES tipo_usuario(id)
+	ON DELETE NO ACTION
+	ON UPDATE NO ACTION;
+
+ALTER TABLE usuario ADD CONSTRAINT usuario_persona_fk 
+	FOREIGN KEY (persona_id) 
+	REFERENCES persona(id)
+	ON DELETE NO ACTION
+	ON UPDATE NO ACTION;
+
+CREATE TABLE usuario_conjunto(
+	usuario_id INT,
+	conjunto_id INT
+);
+
+ALTER TABLE usuario_conjunto ADD CONSTRAINT usuarioconjunto_usuario_fk 
+	FOREIGN KEY (usuario_id) 
+	REFERENCES usuario(id)
+	ON DELETE NO ACTION
+	ON UPDATE NO ACTION;
+
+ALTER TABLE usuario_conjunto ADD CONSTRAINT usuarioconjunto_conjunto_fk 
+	FOREIGN KEY (conjunto_id) 
+	REFERENCES conjunto(id)
 	ON DELETE NO ACTION
 	ON UPDATE NO ACTION;
 	
@@ -142,6 +210,16 @@ DROP TABLE registro_asistencia;
 ALTER TABLE asamblea DROP CONSTRAINT asamblea_conjunto_fk;
 DROP TABLE asamblea
 
+ALTER TABLE usuario_conjunto DROP CONSTRAINT usuarioconjunto_usuario_fk;
+ALTER TABLE usuario_conjunto DROP CONSTRAINT usuarioconjunto_conjunto_fk;
+DROP TABLE usuario_conjunto;
+
+ALTER TABLE usuario DROP CONSTRAINT usuario_persona_fk;
+ALTER TABLE usuario DROP CONSTRAINT usuario_tipousuario_fk;
+DROP TABLE usuario;
+
+DROP TABLE tipo_usuario;
+
 ALTER TABLE vinculacion DROP CONSTRAINT vinculacion_tipovinculacion_fk;
 ALTER TABLE vinculacion DROP CONSTRAINT vinculacion_imueble_fk;
 ALTER TABLE vinculacion DROP CONSTRAINT vinculacion_persona_fk;
@@ -150,6 +228,12 @@ DROP TABLE vinculacion;
 DROP TABLE tipo_vinculacion;
 
 DROP TABLE persona;
+
+ALTER TABLE historia_imueble DROP CONSTRAINT historiaimueble_servicio_fk;
+ALTER TABLE historia_imueble DROP CONSTRAINT historiaimueble_imueble_fk;
+DROP TABLE historia_imueble;
+
+DROP TABLE servicio;
 
 ALTER TABLE imueble DROP CONSTRAINT imueble_conjunto_fk;
 DROP TABLE imueble;
