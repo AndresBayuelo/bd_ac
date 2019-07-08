@@ -17,62 +17,49 @@ ALTER TABLE imueble ADD CONSTRAINT imueble_conjunto_fk
 	ON DELETE NO ACTION
 	ON UPDATE NO ACTION;
 	
-CREATE TABLE tipo_persona(
-	id NUMERIC(2) PRIMARY KEY,
-	nombre VARCHAR(20)
-);
-
 CREATE TABLE persona(
 	id SERIAL PRIMARY KEY,
 	nombres VARCHAR(50),
 	apellidos VARcHAR(50)
 );
 
-CREATE TABLE persona_tipopersona(
-	persona_id INT PRIMARY KEY,
-	tipopersona_id NUMERIC(2)
+CREATE TABLE tipo_vinculacion(
+	id NUMERIC(2) PRIMARY KEY,
+	nombre VARCHAR(20)
 );
 
-ALTER TABLE persona_tipopersona ADD CONSTRAINT personatipopersona_tipopersona_fk 
-	FOREIGN KEY (tipopersona_id) 
-	REFERENCES tipo_persona(id)
-	ON DELETE NO ACTION
-	ON UPDATE NO ACTION;
-	
-ALTER TABLE persona_tipopersona ADD CONSTRAINT personatipopersona_persona_fk 
-	FOREIGN KEY (persona_id) 
-	REFERENCES persona(id)
-	ON DELETE NO ACTION
-	ON UPDATE NO ACTION;
-	
-CREATE TABLE habitante(
+CREATE TABLE vinculacion(
 	persona_id INT,
-	imueble_id INT
+	imueble_id INT,
+	tipovinculacion_id NUMERIC(2)
 );
 
-ALTER TABLE habitante ADD CONSTRAINT habitante_persona_fk 
+ALTER TABLE vinculacion ADD CONSTRAINT vinculacion_persona_fk 
 	FOREIGN KEY (persona_id) 
 	REFERENCES persona(id)
 	ON DELETE NO ACTION
 	ON UPDATE NO ACTION;
 	
-ALTER TABLE habitante ADD CONSTRAINT habitante_imueble_fk 
+ALTER TABLE vinculacion ADD CONSTRAINT vinculacion_imueble_fk 
 	FOREIGN KEY (imueble_id) 
 	REFERENCES imueble(id)
 	ON DELETE NO ACTION
 	ON UPDATE NO ACTION;
+	
+ALTER TABLE vinculacion ADD CONSTRAINT vinculacion_tipovinculacion_fk 
+	FOREIGN KEY (tipovinculacion_id) 
+	REFERENCES tipo_vinculacion(id)
+	ON DELETE NO ACTION
+	ON UPDATE NO ACTION;
 
-ALTER TABLE habitante DROP CONSTRAINT habitante_imueble_fk;
-ALTER TABLE habitante DROP CONSTRAINT habitante_persona_fk;
-DROP TABLE habitante;
+ALTER TABLE vinculacion ADD CONSTRAINT vinculacion_tipovinculacion_fk;
+ALTER TABLE vinculacion ADD CONSTRAINT vinculacion_imueble_fk;
+ALTER TABLE vinculacion ADD CONSTRAINT vinculacion_persona_fk;
+DROP TABLE vinculacion;
 
-ALTER TABLE persona_tipopersona DROP CONSTRAINT personatipopersona_persona_fk;
-ALTER TABLE persona_tipopersona DROP CONSTRAINT personatipopersona_tipopersona_fk;
-DROP TABLE persona_tipopersona;
+DROP TABLE tipo_vinculacion;
 
 DROP TABLE persona;
-
-DROP TABLE tipo_persona;
 
 ALTER TABLE imueble DROP CONSTRAINT imueble_conjunto_fk;
 DROP TABLE imueble;

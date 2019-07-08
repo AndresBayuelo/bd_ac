@@ -10,13 +10,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="124.08958mm"
-   height="128.32292mm"
-   viewBox="0 0 124.08959 128.32292"
+   width="115.62292mm"
+   height="95.779167mm"
+   viewBox="0 0 115.62292 95.779167"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="db_ac.svg">
+   sodipodi:docname="bd_ac.svg">
   <defs
      id="defs2">
     <clipPath
@@ -24,7 +24,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path816"
-         d="m 449,126 h 79 v 76 h -79 z"
+         d="m 391,32 h 79 v 76 h -79 z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -40,7 +40,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path822"
-         d="m 451,128 h 75 v 24 h -75 z"
+         d="m 393,34 h 75 v 24 h -75 z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -48,7 +48,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path825"
-         d="m 451,150 h 75 v 26 h -75 z"
+         d="m 393,56 h 75 v 26 h -75 z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -64,7 +64,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path831"
-         d="m 454,155 h 31 v 18 h -31 z"
+         d="m 396,61 h 31 v 18 h -31 z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -72,7 +72,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path834"
-         d="m 451,174 h 75 v 26 h -75 z"
+         d="m 393,80 h 75 v 26 h -75 z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -88,7 +88,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path840"
-         d="m 454,179 h 63 v 18 h -63 z"
+         d="m 396,85 h 63 v 18 h -63 z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -96,7 +96,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path843"
-         d="m 258,269 h 94 v 76 h -94 z"
+         d="m 378,162 h 99 v 95 h -99 z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -104,7 +104,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path846"
-         d="M -10,-4 H 80 V 20 H -10 Z"
+         d="M -16,-4 H 79 V 20 H -16 Z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -112,7 +112,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path849"
-         d="m 260,271 h 90 v 24 h -90 z"
+         d="m 380,164 h 95 v 24 h -95 z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -120,7 +120,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path852"
-         d="m 260,293 h 90 v 7 h -90 z"
+         d="m 380,186 h 95 v 26 h -95 z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -128,7 +128,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path855"
-         d="m 260,298 h 90 v 45 h -90 z"
+         d="m 383,191 h 31 v 18 h -31 z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -136,7 +136,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path858"
-         d="M -1,-1 H 77 V 17 H -1 Z"
+         d="m 380,210 h 95 v 45 h -95 z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -144,7 +144,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path861"
-         d="m 263,303 h 78 v 18 h -78 z"
+         d="M -1,-1 H 83 V 17 H -1 Z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -152,7 +152,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path864"
-         d="M -1,-1 H 78 V 17 H -1 Z"
+         d="m 383,215 h 84 v 18 h -84 z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -160,7 +160,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path867"
-         d="m 263,322 h 79 v 18 h -79 z"
+         d="m 383,234 h 63 v 18 h -63 z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -168,7 +168,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path870"
-         d="m 436,256 h 99 v 95 h -99 z"
+         d="m 38,163 h 83 v 95 H 38 Z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -176,7 +176,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path873"
-         d="M -16,-4 H 79 V 20 H -16 Z"
+         d="M -9,-4 H 70 V 20 H -9 Z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -184,7 +184,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path876"
-         d="m 438,258 h 95 v 24 h -95 z"
+         d="m 40,165 h 79 v 24 H 40 Z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -192,7 +192,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path879"
-         d="m 438,280 h 95 v 26 h -95 z"
+         d="m 40,187 h 79 v 26 H 40 Z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -200,7 +200,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path882"
-         d="m 441,285 h 31 v 18 h -31 z"
+         d="m 43,192 h 31 v 18 H 43 Z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -208,7 +208,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path885"
-         d="m 438,304 h 95 v 45 h -95 z"
+         d="m 40,211 h 79 v 45 H 40 Z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -216,7 +216,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path888"
-         d="M -1,-1 H 83 V 17 H -1 Z"
+         d="M -1,-1 H 67 V 17 H -1 Z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -224,7 +224,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path891"
-         d="m 441,309 h 84 v 18 h -84 z"
+         d="m 43,216 h 68 v 18 H 43 Z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -232,7 +232,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path894"
-         d="m 441,328 h 63 v 18 h -63 z"
+         d="m 43,235 h 68 v 18 H 43 Z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -240,7 +240,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path897"
-         d="m 96,257 h 83 v 95 H 96 Z"
+         d="m 176,166 h 133 v 95 H 176 Z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -248,7 +248,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path900"
-         d="M -9,-4 H 70 V 20 H -9 Z"
+         d="M -24,-4 H 105 V 20 H -24 Z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -256,7 +256,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path903"
-         d="m 98,259 h 79 v 24 H 98 Z"
+         d="m 178,168 h 129 v 24 H 178 Z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -264,7 +264,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path906"
-         d="m 98,281 h 79 v 26 H 98 Z"
+         d="m 178,190 h 129 v 7 H 178 Z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -272,7 +272,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path909"
-         d="m 101,286 h 31 v 18 h -31 z"
+         d="m 178,195 h 129 v 64 H 178 Z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -280,7 +280,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path912"
-         d="m 98,305 h 79 v 45 H 98 Z"
+         d="M -1,-1 H 77 V 17 H -1 Z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -288,7 +288,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path915"
-         d="M -1,-1 H 67 V 17 H -1 Z"
+         d="m 181,200 h 78 v 18 h -78 z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -296,7 +296,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path918"
-         d="m 101,310 h 68 v 18 h -68 z"
+         d="M -1,-1 H 78 V 17 H -1 Z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -304,7 +304,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path921"
-         d="m 101,329 h 68 v 18 h -68 z"
+         d="m 181,219 h 79 v 18 h -79 z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -312,7 +312,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path924"
-         d="m 64,410 h 141 v 76 H 64 Z"
+         d="M -1,-1 H 117 V 17 H -1 Z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -320,7 +320,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path927"
-         d="M -4,-4 H 133 V 20 H -4 Z"
+         d="m 181,238 h 118 v 18 H 181 Z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -328,7 +328,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path930"
-         d="m 66,412 h 137 v 24 H 66 Z"
+         d="m 179,320 h 118 v 76 H 179 Z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -336,7 +336,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path933"
-         d="m 66,434 h 137 v 26 H 66 Z"
+         d="M -4,-4 H 110 V 20 H -4 Z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -344,7 +344,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path936"
-         d="M -1,-1 H 79 V 17 H -1 Z"
+         d="m 181,322 h 114 v 24 H 181 Z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -352,7 +352,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path939"
-         d="m 69,439 h 80 v 18 H 69 Z"
+         d="m 181,344 h 114 v 26 H 181 Z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -360,7 +360,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path942"
-         d="m 66,458 h 137 v 26 H 66 Z"
+         d="m 184,349 h 31 v 18 h -31 z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -368,7 +368,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path945"
-         d="M -1,-1 H 98 V 17 H -1 Z"
+         d="m 181,368 h 114 v 26 H 181 Z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -376,7 +376,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path948"
-         d="m 69,463 h 99 v 18 H 69 Z"
+         d="m 184,373 h 63 v 18 h -63 z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -384,7 +384,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path951"
-         d="m 89,537 h 99 v 76 H 89 Z"
+         d="m 423,106 h 13 v 58 h -13 z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -392,7 +392,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path954"
-         d="M -4,-4 H 91 V 20 H -4 Z"
+         d="m 425,155 h 9 v 9 h -9 z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -400,7 +400,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path957"
-         d="m 91,539 h 95 v 24 H 91 Z"
+         d="m 423,106 h 13 v 13 h -13 z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -408,7 +408,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path960"
-         d="m 91,561 h 95 v 26 H 91 Z"
+         d="m 307,204 h 73 v 13 h -73 z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -416,7 +416,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path963"
-         d="m 94,566 h 31 v 18 H 94 Z"
+         d="m 307,207 h 9 v 9 h -9 z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -424,7 +424,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path966"
-         d="m 91,585 h 95 v 26 H 91 Z"
+         d="m 367,204 h 13 v 13 h -13 z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -432,7 +432,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path969"
-         d="m 94,590 h 63 v 18 H 94 Z"
+         d="m 119,205 h 59 v 13 h -59 z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -440,7 +440,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path972"
-         d="m 481,200 h 13 v 58 h -13 z"
+         d="m 169,207 h 9 v 9 h -9 z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -448,7 +448,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path975"
-         d="m 483,249 h 9 v 9 h -9 z"
+         d="m 119,205 h 13 v 13 h -13 z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -456,7 +456,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path978"
-         d="m 481,200 h 13 v 13 h -13 z"
+         d="m 233,259 h 13 v 63 h -13 z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -464,7 +464,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path981"
-         d="m 350,298 h 88 v 13 h -88 z"
+         d="m 236,259 h 9 v 9 h -9 z"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -472,79 +472,7 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path984"
-         d="m 350,301 h 9 v 9 h -9 z"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <clipPath
-       id="clipPath58"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         id="path987"
-         d="m 425,298 h 13 v 13 h -13 z"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <clipPath
-       id="clipPath59"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         id="path990"
-         d="m 177,299 h 83 v 13 h -83 z"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <clipPath
-       id="clipPath60"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         id="path993"
-         d="m 251,301 h 9 v 9 h -9 z"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <clipPath
-       id="clipPath61"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         id="path996"
-         d="m 177,299 h 13 v 13 h -13 z"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <clipPath
-       id="clipPath62"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         id="path999"
-         d="m 132,350 h 9 v 62 h -9 z"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <clipPath
-       id="clipPath63"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         id="path1002"
-         d="m 132,403 h 9 v 9 h -9 z"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <clipPath
-       id="clipPath64"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         id="path1005"
-         d="m 131,484 h 13 v 55 h -13 z"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <clipPath
-       id="clipPath65"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         id="path1008"
-         d="m 132,484 h 9 v 9 h -9 z"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <clipPath
-       id="clipPath66"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         id="path1011"
-         d="m 131,526 h 13 v 13 h -13 z"
+         d="m 233,309 h 13 v 13 h -13 z"
          inkscape:connector-curvature="0" />
     </clipPath>
   </defs>
@@ -556,8 +484,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="-294.07142"
-     inkscape:cy="251.0714"
+     inkscape:cx="-320.07145"
+     inkscape:cy="192.42856"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -586,2170 +514,1884 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-44.166516,-86.939733)">
+     transform="translate(-51.04569,-103.96756)">
     <g
        style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
-       id="g2024"
-       transform="matrix(0.26458333,0,0,0.26458333,26.9686,53.33765)">
+       id="g1865"
+       transform="matrix(0.26458333,0,0,0.26458333,40.72694,95.236309)"
+       inkscape:transform-center-x="-18.89881"
+       inkscape:transform-center-y="105.07738">
       <g
-         id="g1417">
+         id="g1338">
         <defs
            id="defs1">
           <clipPath
-             id="clipPath1559"
+             id="clipPath1462"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1557"
-               d="m 449,126 h 79 v 76 h -79 z"
+               id="path1460"
+               d="m 391,32 h 79 v 76 h -79 z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1563"
+             id="clipPath1466"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1561"
+               id="path1464"
                d="M -4,-4 H 71 V 20 H -4 Z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1567"
+             id="clipPath1470"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1565"
-               d="m 451,128 h 75 v 24 h -75 z"
+               id="path1468"
+               d="m 393,34 h 75 v 24 h -75 z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1571"
+             id="clipPath1474"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1569"
-               d="m 451,150 h 75 v 26 h -75 z"
+               id="path1472"
+               d="m 393,56 h 75 v 26 h -75 z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1575"
+             id="clipPath1478"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1573"
+               id="path1476"
                d="M -1,-1 H 30 V 17 H -1 Z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1579"
+             id="clipPath1482"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1577"
-               d="m 454,155 h 31 v 18 h -31 z"
+               id="path1480"
+               d="m 396,61 h 31 v 18 h -31 z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1583"
+             id="clipPath1486"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1581"
-               d="m 451,174 h 75 v 26 h -75 z"
+               id="path1484"
+               d="m 393,80 h 75 v 26 h -75 z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1587"
+             id="clipPath1490"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1585"
+               id="path1488"
                d="M -1,-1 H 62 V 17 H -1 Z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1591"
+             id="clipPath1494"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1589"
-               d="m 454,179 h 63 v 18 h -63 z"
+               id="path1492"
+               d="m 396,85 h 63 v 18 h -63 z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1595"
+             id="clipPath1498"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1593"
-               d="m 258,269 h 94 v 76 h -94 z"
+               id="path1496"
+               d="m 378,162 h 99 v 95 h -99 z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1599"
+             id="clipPath1502"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1597"
-               d="M -10,-4 H 80 V 20 H -10 Z"
-               inkscape:connector-curvature="0" />
-          </clipPath>
-          <clipPath
-             id="clipPath1603"
-             clipPathUnits="userSpaceOnUse">
-            <path
-               id="path1601"
-               d="m 260,271 h 90 v 24 h -90 z"
-               inkscape:connector-curvature="0" />
-          </clipPath>
-          <clipPath
-             id="clipPath1607"
-             clipPathUnits="userSpaceOnUse">
-            <path
-               id="path1605"
-               d="m 260,293 h 90 v 7 h -90 z"
-               inkscape:connector-curvature="0" />
-          </clipPath>
-          <clipPath
-             id="clipPath1611"
-             clipPathUnits="userSpaceOnUse">
-            <path
-               id="path1609"
-               d="m 260,298 h 90 v 45 h -90 z"
-               inkscape:connector-curvature="0" />
-          </clipPath>
-          <clipPath
-             id="clipPath1615"
-             clipPathUnits="userSpaceOnUse">
-            <path
-               id="path1613"
-               d="M -1,-1 H 77 V 17 H -1 Z"
-               inkscape:connector-curvature="0" />
-          </clipPath>
-          <clipPath
-             id="clipPath1619"
-             clipPathUnits="userSpaceOnUse">
-            <path
-               id="path1617"
-               d="m 263,303 h 78 v 18 h -78 z"
-               inkscape:connector-curvature="0" />
-          </clipPath>
-          <clipPath
-             id="clipPath1623"
-             clipPathUnits="userSpaceOnUse">
-            <path
-               id="path1621"
-               d="M -1,-1 H 78 V 17 H -1 Z"
-               inkscape:connector-curvature="0" />
-          </clipPath>
-          <clipPath
-             id="clipPath1627"
-             clipPathUnits="userSpaceOnUse">
-            <path
-               id="path1625"
-               d="m 263,322 h 79 v 18 h -79 z"
-               inkscape:connector-curvature="0" />
-          </clipPath>
-          <clipPath
-             id="clipPath1631"
-             clipPathUnits="userSpaceOnUse">
-            <path
-               id="path1629"
-               d="m 436,256 h 99 v 95 h -99 z"
-               inkscape:connector-curvature="0" />
-          </clipPath>
-          <clipPath
-             id="clipPath1635"
-             clipPathUnits="userSpaceOnUse">
-            <path
-               id="path1633"
+               id="path1500"
                d="M -16,-4 H 79 V 20 H -16 Z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1639"
+             id="clipPath1506"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1637"
-               d="m 438,258 h 95 v 24 h -95 z"
+               id="path1504"
+               d="m 380,164 h 95 v 24 h -95 z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1643"
+             id="clipPath1510"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1641"
-               d="m 438,280 h 95 v 26 h -95 z"
+               id="path1508"
+               d="m 380,186 h 95 v 26 h -95 z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1647"
+             id="clipPath1514"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1645"
-               d="m 441,285 h 31 v 18 h -31 z"
+               id="path1512"
+               d="m 383,191 h 31 v 18 h -31 z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1651"
+             id="clipPath1518"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1649"
-               d="m 438,304 h 95 v 45 h -95 z"
+               id="path1516"
+               d="m 380,210 h 95 v 45 h -95 z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1655"
+             id="clipPath1522"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1653"
+               id="path1520"
                d="M -1,-1 H 83 V 17 H -1 Z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1659"
+             id="clipPath1526"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1657"
-               d="m 441,309 h 84 v 18 h -84 z"
+               id="path1524"
+               d="m 383,215 h 84 v 18 h -84 z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1663"
+             id="clipPath1530"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1661"
-               d="m 441,328 h 63 v 18 h -63 z"
+               id="path1528"
+               d="m 383,234 h 63 v 18 h -63 z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1667"
+             id="clipPath1534"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1665"
-               d="m 96,257 h 83 v 95 H 96 Z"
+               id="path1532"
+               d="m 38,163 h 83 v 95 H 38 Z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1671"
+             id="clipPath1538"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1669"
+               id="path1536"
                d="M -9,-4 H 70 V 20 H -9 Z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1675"
+             id="clipPath1542"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1673"
-               d="m 98,259 h 79 v 24 H 98 Z"
+               id="path1540"
+               d="m 40,165 h 79 v 24 H 40 Z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1679"
+             id="clipPath1546"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1677"
-               d="m 98,281 h 79 v 26 H 98 Z"
+               id="path1544"
+               d="m 40,187 h 79 v 26 H 40 Z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1683"
+             id="clipPath1550"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1681"
-               d="m 101,286 h 31 v 18 h -31 z"
+               id="path1548"
+               d="m 43,192 h 31 v 18 H 43 Z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1687"
+             id="clipPath1554"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1685"
-               d="m 98,305 h 79 v 45 H 98 Z"
+               id="path1552"
+               d="m 40,211 h 79 v 45 H 40 Z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1691"
+             id="clipPath1558"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1689"
+               id="path1556"
                d="M -1,-1 H 67 V 17 H -1 Z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1695"
+             id="clipPath1562"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1693"
-               d="m 101,310 h 68 v 18 h -68 z"
+               id="path1560"
+               d="m 43,216 h 68 v 18 H 43 Z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1699"
+             id="clipPath1566"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1697"
-               d="m 101,329 h 68 v 18 h -68 z"
+               id="path1564"
+               d="m 43,235 h 68 v 18 H 43 Z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1703"
+             id="clipPath1570"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1701"
-               d="m 64,410 h 141 v 76 H 64 Z"
+               id="path1568"
+               d="m 176,166 h 133 v 95 H 176 Z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1707"
+             id="clipPath1574"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1705"
-               d="M -4,-4 H 133 V 20 H -4 Z"
+               id="path1572"
+               d="M -24,-4 H 105 V 20 H -24 Z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1711"
+             id="clipPath1578"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1709"
-               d="m 66,412 h 137 v 24 H 66 Z"
+               id="path1576"
+               d="m 178,168 h 129 v 24 H 178 Z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1715"
+             id="clipPath1582"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1713"
-               d="m 66,434 h 137 v 26 H 66 Z"
+               id="path1580"
+               d="m 178,190 h 129 v 7 H 178 Z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1719"
+             id="clipPath1586"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1717"
-               d="M -1,-1 H 79 V 17 H -1 Z"
+               id="path1584"
+               d="m 178,195 h 129 v 64 H 178 Z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1723"
+             id="clipPath1590"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1721"
-               d="m 69,439 h 80 v 18 H 69 Z"
+               id="path1588"
+               d="M -1,-1 H 77 V 17 H -1 Z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1727"
+             id="clipPath1594"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1725"
-               d="m 66,458 h 137 v 26 H 66 Z"
+               id="path1592"
+               d="m 181,200 h 78 v 18 h -78 z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1731"
+             id="clipPath1598"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1729"
-               d="M -1,-1 H 98 V 17 H -1 Z"
+               id="path1596"
+               d="M -1,-1 H 78 V 17 H -1 Z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1735"
+             id="clipPath1602"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1733"
-               d="m 69,463 h 99 v 18 H 69 Z"
+               id="path1600"
+               d="m 181,219 h 79 v 18 h -79 z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1739"
+             id="clipPath1606"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1737"
-               d="m 89,537 h 99 v 76 H 89 Z"
+               id="path1604"
+               d="M -1,-1 H 117 V 17 H -1 Z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1743"
+             id="clipPath1610"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1741"
-               d="M -4,-4 H 91 V 20 H -4 Z"
+               id="path1608"
+               d="m 181,238 h 118 v 18 H 181 Z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1747"
+             id="clipPath1614"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1745"
-               d="m 91,539 h 95 v 24 H 91 Z"
+               id="path1612"
+               d="m 179,320 h 118 v 76 H 179 Z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1751"
+             id="clipPath1618"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1749"
-               d="m 91,561 h 95 v 26 H 91 Z"
+               id="path1616"
+               d="M -4,-4 H 110 V 20 H -4 Z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1755"
+             id="clipPath1622"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1753"
-               d="m 94,566 h 31 v 18 H 94 Z"
+               id="path1620"
+               d="m 181,322 h 114 v 24 H 181 Z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1759"
+             id="clipPath1626"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1757"
-               d="m 91,585 h 95 v 26 H 91 Z"
+               id="path1624"
+               d="m 181,344 h 114 v 26 H 181 Z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1763"
+             id="clipPath1630"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1761"
-               d="m 94,590 h 63 v 18 H 94 Z"
+               id="path1628"
+               d="m 184,349 h 31 v 18 h -31 z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1767"
+             id="clipPath1634"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1765"
-               d="m 481,200 h 13 v 58 h -13 z"
+               id="path1632"
+               d="m 181,368 h 114 v 26 H 181 Z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1771"
+             id="clipPath1638"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1769"
-               d="m 483,249 h 9 v 9 h -9 z"
+               id="path1636"
+               d="m 184,373 h 63 v 18 h -63 z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1775"
+             id="clipPath1642"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1773"
-               d="m 481,200 h 13 v 13 h -13 z"
+               id="path1640"
+               d="m 423,106 h 13 v 58 h -13 z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1779"
+             id="clipPath1646"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1777"
-               d="m 350,298 h 88 v 13 h -88 z"
+               id="path1644"
+               d="m 425,155 h 9 v 9 h -9 z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1783"
+             id="clipPath1650"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1781"
-               d="m 350,301 h 9 v 9 h -9 z"
+               id="path1648"
+               d="m 423,106 h 13 v 13 h -13 z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1787"
+             id="clipPath1654"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1785"
-               d="m 425,298 h 13 v 13 h -13 z"
+               id="path1652"
+               d="m 307,204 h 73 v 13 h -73 z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1791"
+             id="clipPath1658"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1789"
-               d="m 177,299 h 83 v 13 h -83 z"
+               id="path1656"
+               d="m 307,207 h 9 v 9 h -9 z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1795"
+             id="clipPath1662"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1793"
-               d="m 251,301 h 9 v 9 h -9 z"
+               id="path1660"
+               d="m 367,204 h 13 v 13 h -13 z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1799"
+             id="clipPath1666"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1797"
-               d="m 177,299 h 13 v 13 h -13 z"
+               id="path1664"
+               d="m 119,205 h 59 v 13 h -59 z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1803"
+             id="clipPath1670"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1801"
-               d="m 132,350 h 9 v 62 h -9 z"
+               id="path1668"
+               d="m 169,207 h 9 v 9 h -9 z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1807"
+             id="clipPath1674"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1805"
-               d="m 132,403 h 9 v 9 h -9 z"
+               id="path1672"
+               d="m 119,205 h 13 v 13 h -13 z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1811"
+             id="clipPath1678"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1809"
-               d="m 131,484 h 13 v 55 h -13 z"
+               id="path1676"
+               d="m 233,259 h 13 v 63 h -13 z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1815"
+             id="clipPath1682"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1813"
-               d="m 132,484 h 9 v 9 h -9 z"
+               id="path1680"
+               d="m 236,259 h 9 v 9 h -9 z"
                inkscape:connector-curvature="0" />
           </clipPath>
           <clipPath
-             id="clipPath1819"
+             id="clipPath1686"
              clipPathUnits="userSpaceOnUse">
             <path
-               id="path1817"
-               d="m 131,526 h 13 v 13 h -13 z"
+               id="path1684"
+               d="m 233,309 h 13 v 13 h -13 z"
                inkscape:connector-curvature="0" />
           </clipPath>
         </defs>
         <g
-           id="g1027"
+           id="g1000"
            stroke-miterlimit="0"
            style="font-family:'Segoe UI';fill:#ffffe1;stroke:#ffffe1;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:0">
           <rect
-             id="rect1015"
-             y="127"
-             x="450"
+             id="rect988"
+             y="33"
+             x="392"
              width="77"
              height="74"
              clip-path="url(#clipPath1)"
              style="stroke:none" />
           <image
-             id="image1017"
+             id="image990"
              y="0"
              xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAmElEQVR42mP8//8/ AyWAiYFCwAJjME648A1IcRKr8X+BASPj1KuKTORohur5/z9b+z7MC5wUeyHFQgar gjknnmCVA4kTHYhf//ylLBa4WZgJewHmJFzeIGgAKFpwhjYWOZA4igFwCUaEWlgq ZZx9QYQhzfANujiSAYz/sEnCxVIN3jCkYk/yjHBboE4iJSUSFQY0z0wUGwAAEzg/ ADwqV4IAAAAASUVORK5CYII="
              x="0"
              width="16"
-             transform="translate(455,132)"
+             transform="translate(397,38)"
              preserveAspectRatio="none"
              height="16"
              clip-path="url(#clipPath2)" />
           <text
-             id="text1019"
-             y="145"
+             id="text992"
+             y="51"
              xml:space="preserve"
-             x="474"
+             x="416"
              clip-path="url(#clipPath3)"
              style="fill:#000000;stroke:none">conjunto</text>
           <rect
-             id="rect1021"
-             y="151"
-             x="452"
+             id="rect994"
+             y="57"
+             x="394"
              width="73"
              height="24"
              clip-path="url(#clipPath4)"
              style="fill:#ffffff;stroke:none" />
           <image
-             id="image1023"
+             id="image996"
              y="0"
              xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA40lEQVR42mP8//8/ AyWAiYFCQLEBLCCCccIFmD8Y/xcYgPgGQPZ5JHWGQPELSOr+AvF3IOZhgQouBOJ4 JA0gzYJA/AGIwYYB1TGCLECymBskD2IoAvEDNAMYkdgPsLicEWo4IxMOBWAA8g4Q vAfiRiQ+yMXPgbgQHIggQagEukYBqPcmAnEDmu0iQNwPxBOwxgI0EEE2BwJxAZKh 6N7IxxWNoEA0BOINMM1AQ2EughlmADGl//wEkEnIUYYWhcg2LkALbENGUFIGmkxK 2lEAYk8gng5PSFj8hw88gGkeHHmBYgMA0BNI/5xkyR8AAAAASUVORK5CYII="
              x="0"
              width="16"
-             transform="translate(455,156)"
+             transform="translate(397,62)"
              preserveAspectRatio="none"
              height="16"
              font-weight="bold"
              clip-path="url(#clipPath5)"
              style="font-weight:bold;fill:#ffffff;stroke:#ffffff" />
           <text
-             id="text1025"
-             y="169"
+             id="text998"
+             y="75"
              xml:space="preserve"
-             x="474"
+             x="416"
              font-weight="bold"
              clip-path="url(#clipPath6)"
              style="font-weight:bold;fill:#000000;stroke:none">id</text>
         </g>
         <g
-           id="g1323"
+           id="g1256"
            style="font-family:'Segoe UI';fill:#008fcf;stroke:#008fcf;stroke-width:2;stroke-linecap:butt">
           <line
-             id="line1029"
-             y2="151"
-             y1="151"
-             x2="525"
-             x1="452"
+             id="line1002"
+             y2="57"
+             y1="57"
+             x2="467"
+             x1="394"
              clip-path="url(#clipPath4)"
              style="fill:none" />
           <rect
-             id="rect1031"
-             y="175"
-             x="452"
+             id="rect1004"
+             y="81"
+             x="394"
              width="73"
              height="24"
              clip-path="url(#clipPath7)"
              style="fill:#ffffff;stroke:none" />
           <image
-             id="image1033"
+             id="image1006"
              y="0"
              xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAqUlEQVR42mP8//8/ AyWAiYFCMPAGsIAIxgkXvgEpTgZGhrf/8w1EoGKQwGFk/P8/Xx9uEePEi+8Y/v8X BDK//y8w4GJk6D8P0YwKGIEYJXSBihnhhqJ5gROmAIsLGaEYlzgjE7JmDEMYGe+D MRFhgDUxAP2uiFWeicEcwmD+x4LP30ga/6AY8I/hBITxFx6NEKczMfnjcKgBmJI1 YEERZufkZRxNypQbAAA8nTT4ziswsQAAAABJRU5ErkJggg=="
              x="0"
              width="16"
-             transform="translate(455,180)"
+             transform="translate(397,86)"
              preserveAspectRatio="none"
              height="16"
              clip-path="url(#clipPath8)"
              style="fill:#ffffff;stroke:#ffffff" />
           <text
-             id="text1035"
-             y="193"
+             id="text1008"
+             y="99"
              xml:space="preserve"
-             x="474"
+             x="416"
              clip-path="url(#clipPath9)"
              style="fill:#000000;stroke:none">nombre</text>
           <line
-             id="line1037"
-             y2="175"
-             y1="175"
-             x2="525"
-             x1="452"
+             id="line1010"
+             y2="81"
+             y1="81"
+             x2="467"
+             x1="394"
              clip-path="url(#clipPath7)"
              style="fill:none" />
           <rect
-             id="rect1039"
-             y="128"
-             x="451"
+             id="rect1012"
+             y="34"
+             x="393"
              width="75"
              height="72"
              clip-path="url(#clipPath1)"
              style="fill:none" />
           <rect
-             id="rect1041"
-             y="270"
-             x="259"
-             width="92"
-             height="74"
+             id="rect1014"
+             y="163"
+             x="379"
+             width="97"
+             height="93"
              clip-path="url(#clipPath10)"
              style="fill:#ffffe1;stroke:none" />
           <image
-             id="image1043"
+             id="image1016"
              y="0"
              xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAmElEQVR42mP8//8/ AyWAiYFCwAJjME648A1IcRKr8X+BASPj1KuKTORohur5/z9b+z7MC5wUeyHFQgar gjknnmCVA4kTHYhf//ylLBa4WZgJewHmJFzeIGgAKFpwhjYWOZA4igFwCUaEWlgq ZZx9QYQhzfANujiSAYz/sEnCxVIN3jCkYk/yjHBboE4iJSUSFQY0z0wUGwAAEzg/ ADwqV4IAAAAASUVORK5CYII="
              x="0"
              width="16"
-             transform="translate(270,275)"
+             transform="translate(396,168)"
              preserveAspectRatio="none"
              height="16"
              clip-path="url(#clipPath11)"
              style="fill:#ffffe1;stroke:#ffffe1" />
           <text
-             id="text1045"
-             y="288"
+             id="text1018"
+             y="181"
              xml:space="preserve"
-             x="289"
+             x="415"
              clip-path="url(#clipPath12)"
-             style="fill:#000000;stroke:none">habitante</text>
+             style="fill:#000000;stroke:none">imueble</text>
           <rect
-             id="rect1047"
-             y="294"
-             x="261"
-             width="88"
-             height="5"
+             id="rect1020"
+             y="187"
+             x="381"
+             width="93"
+             height="24"
              clip-path="url(#clipPath13)"
-             style="fill:#ffffff;stroke:none" />
-          <line
-             id="line1049"
-             y2="294"
-             y1="294"
-             x2="349"
-             x1="261"
-             clip-path="url(#clipPath13)"
-             style="fill:none" />
-          <rect
-             id="rect1051"
-             y="299"
-             x="261"
-             width="88"
-             height="43"
-             clip-path="url(#clipPath14)"
              style="fill:#ffffff;stroke:none" />
           <image
-             id="image1053"
+             id="image1022"
              y="0"
              xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA40lEQVR42mP8//8/ AyWAiYFCQLEBLCCCccIFmD8Y/xcYgPgGQPZ5JHWGQPELSOr+AvF3IOZhgQouBOJ4 JA0gzYJA/AGIwYYB1TGCLECymBskD2IoAvEDNAMYkdgPsLicEWo4IxMOBWAA8g4Q vAfiRiQ+yMXPgbgQHIggQagEukYBqPcmAnEDmu0iQNwPxBOwxgI0EEE2BwJxAZKh 6N7IxxWNoEA0BOINMM1AQ2EughlmADGl//wEkEnIUYYWhcg2LkALbENGUFIGmkxK 2lEAYk8gng5PSFj8hw88gGkeHHmBYgMA0BNI/5xkyR8AAAAASUVORK5CYII="
              x="0"
              width="16"
-             transform="translate(264,304)"
+             transform="translate(384,192)"
              preserveAspectRatio="none"
              height="16"
+             font-weight="bold"
+             clip-path="url(#clipPath5)"
+             style="font-weight:bold;fill:#ffffff;stroke:#ffffff" />
+          <text
+             id="text1024"
+             y="205"
+             xml:space="preserve"
+             x="403"
+             font-weight="bold"
+             clip-path="url(#clipPath14)"
+             style="font-weight:bold;fill:#000000;stroke:none">id</text>
+          <line
+             id="line1026"
+             y2="187"
+             y1="187"
+             x2="474"
+             x1="381"
+             clip-path="url(#clipPath13)"
+             style="fill:none" />
+          <rect
+             id="rect1028"
+             y="211"
+             x="381"
+             width="93"
+             height="43"
              clip-path="url(#clipPath15)"
+             style="fill:#ffffff;stroke:none" />
+          <image
+             id="image1030"
+             y="0"
+             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA40lEQVR42mP8//8/ AyWAiYFCQLEBLCCCccIFmD8Y/xcYgPgGQPZ5JHWGQPELSOr+AvF3IOZhgQouBOJ4 JA0gzYJA/AGIwYYB1TGCLECymBskD2IoAvEDNAMYkdgPsLicEWo4IxMOBWAA8g4Q vAfiRiQ+yMXPgbgQHIggQagEukYBqPcmAnEDmu0iQNwPxBOwxgI0EEE2BwJxAZKh 6N7IxxWNoEA0BOINMM1AQ2EughlmADGl//wEkEnIUYYWhcg2LkALbENGUFIGmkxK 2lEAYk8gng5PSFj8hw88gGkeHHmBYgMA0BNI/5xkyR8AAAAASUVORK5CYII="
+             x="0"
+             width="16"
+             transform="translate(384,216)"
+             preserveAspectRatio="none"
+             height="16"
+             clip-path="url(#clipPath16)"
              style="fill:#ffffff;stroke:#ffffff" />
           <text
-             id="text1055"
-             y="317"
+             id="text1032"
+             y="229"
              xml:space="preserve"
-             x="283"
-             clip-path="url(#clipPath16)"
-             style="fill:#000000;stroke:none">persona_id</text>
+             x="403"
+             clip-path="url(#clipPath17)"
+             style="fill:#000000;stroke:none">conjunto_id</text>
           <image
-             id="image1057"
+             id="image1034"
              y="0"
              xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA40lEQVR42mP8//8/ AyWAiYFCQLEBLCCCccIFmD8Y/xcYgPgGQPZ5JHWGQPELSOr+AvF3IOZhgQouBOJ4 JA0gzYJA/AGIwYYB1TGCLECymBskD2IoAvEDNAMYkdgPsLicEWo4IxMOBWAA8g4Q vAfiRiQ+yMXPgbgQHIggQagEukYBqPcmAnEDmu0iQNwPxBOwxgI0EEE2BwJxAZKh 6N7IxxWNoEA0BOINMM1AQ2EughlmADGl//wEkEnIUYYWhcg2LkALbENGUFIGmkxK 2lEAYk8gng5PSFj8hw88gGkeHHmBYgMA0BNI/5xkyR8AAAAASUVORK5CYII="
              x="0"
              width="16"
-             transform="translate(264,323)"
+             transform="translate(384,235)"
              preserveAspectRatio="none"
              height="16"
-             clip-path="url(#clipPath17)"
+             clip-path="url(#clipPath8)"
              style="fill:#000000;stroke:#000000" />
           <text
-             id="text1059"
-             y="336"
+             id="text1036"
+             y="248"
              xml:space="preserve"
-             x="283"
+             x="403"
              clip-path="url(#clipPath18)"
-             style="fill:#000000;stroke:none">imueble_id</text>
+             style="fill:#000000;stroke:none">numero</text>
           <line
-             id="line1061"
-             y2="299"
-             y1="299"
-             x2="349"
-             x1="261"
-             clip-path="url(#clipPath14)"
+             id="line1038"
+             y2="211"
+             y1="211"
+             x2="474"
+             x1="381"
+             clip-path="url(#clipPath15)"
              style="fill:none" />
           <rect
-             id="rect1063"
-             y="271"
-             x="260"
-             width="90"
-             height="72"
+             id="rect1040"
+             y="164"
+             x="380"
+             width="95"
+             height="91"
              clip-path="url(#clipPath10)"
              style="fill:none" />
           <rect
-             id="rect1065"
-             y="257"
-             x="437"
-             width="97"
+             id="rect1042"
+             y="164"
+             x="39"
+             width="81"
              height="93"
              clip-path="url(#clipPath19)"
              style="fill:#ffffe1;stroke:none" />
           <image
-             id="image1067"
+             id="image1044"
              y="0"
              xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAmElEQVR42mP8//8/ AyWAiYFCwAJjME648A1IcRKr8X+BASPj1KuKTORohur5/z9b+z7MC5wUeyHFQgar gjknnmCVA4kTHYhf//ylLBa4WZgJewHmJFzeIGgAKFpwhjYWOZA4igFwCUaEWlgq ZZx9QYQhzfANujiSAYz/sEnCxVIN3jCkYk/yjHBboE4iJSUSFQY0z0wUGwAAEzg/ ADwqV4IAAAAASUVORK5CYII="
              x="0"
              width="16"
-             transform="translate(454,262)"
+             transform="translate(49,169)"
              preserveAspectRatio="none"
              height="16"
              clip-path="url(#clipPath20)"
              style="fill:#ffffe1;stroke:#ffffe1" />
           <text
-             id="text1069"
-             y="275"
+             id="text1046"
+             y="182"
              xml:space="preserve"
-             x="473"
+             x="68"
              clip-path="url(#clipPath21)"
-             style="fill:#000000;stroke:none">imueble</text>
+             style="fill:#000000;stroke:none">persona</text>
           <rect
-             id="rect1071"
-             y="281"
-             x="439"
-             width="93"
+             id="rect1048"
+             y="188"
+             x="41"
+             width="77"
              height="24"
              clip-path="url(#clipPath22)"
              style="fill:#ffffff;stroke:none" />
           <image
-             id="image1073"
+             id="image1050"
              y="0"
              xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA40lEQVR42mP8//8/ AyWAiYFCQLEBLCCCccIFmD8Y/xcYgPgGQPZ5JHWGQPELSOr+AvF3IOZhgQouBOJ4 JA0gzYJA/AGIwYYB1TGCLECymBskD2IoAvEDNAMYkdgPsLicEWo4IxMOBWAA8g4Q vAfiRiQ+yMXPgbgQHIggQagEukYBqPcmAnEDmu0iQNwPxBOwxgI0EEE2BwJxAZKh 6N7IxxWNoEA0BOINMM1AQ2EughlmADGl//wEkEnIUYYWhcg2LkALbENGUFIGmkxK 2lEAYk8gng5PSFj8hw88gGkeHHmBYgMA0BNI/5xkyR8AAAAASUVORK5CYII="
              x="0"
              width="16"
-             transform="translate(442,286)"
+             transform="translate(44,193)"
              preserveAspectRatio="none"
              height="16"
              font-weight="bold"
              clip-path="url(#clipPath5)"
              style="font-weight:bold;fill:#ffffff;stroke:#ffffff" />
           <text
-             id="text1075"
-             y="299"
+             id="text1052"
+             y="206"
              xml:space="preserve"
-             x="461"
+             x="63"
              font-weight="bold"
              clip-path="url(#clipPath23)"
              style="font-weight:bold;fill:#000000;stroke:none">id</text>
           <line
-             id="line1077"
-             y2="281"
-             y1="281"
-             x2="532"
-             x1="439"
+             id="line1054"
+             y2="188"
+             y1="188"
+             x2="118"
+             x1="41"
              clip-path="url(#clipPath22)"
              style="fill:none" />
           <rect
-             id="rect1079"
-             y="305"
-             x="439"
-             width="93"
+             id="rect1056"
+             y="212"
+             x="41"
+             width="77"
              height="43"
              clip-path="url(#clipPath24)"
              style="fill:#ffffff;stroke:none" />
           <image
-             id="image1081"
+             id="image1058"
              y="0"
-             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA40lEQVR42mP8//8/ AyWAiYFCQLEBLCCCccIFmD8Y/xcYgPgGQPZ5JHWGQPELSOr+AvF3IOZhgQouBOJ4 JA0gzYJA/AGIwYYB1TGCLECymBskD2IoAvEDNAMYkdgPsLicEWo4IxMOBWAA8g4Q vAfiRiQ+yMXPgbgQHIggQagEukYBqPcmAnEDmu0iQNwPxBOwxgI0EEE2BwJxAZKh 6N7IxxWNoEA0BOINMM1AQ2EughlmADGl//wEkEnIUYYWhcg2LkALbENGUFIGmkxK 2lEAYk8gng5PSFj8hw88gGkeHHmBYgMA0BNI/5xkyR8AAAAASUVORK5CYII="
+             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAqUlEQVR42mP8//8/ AyWAiYFCMPAGsIAIxgkXvgEpTgZGhrf/8w1EoGKQwGFk/P8/Xx9uEePEi+8Y/v8X BDK//y8w4GJk6D8P0YwKGIEYJXSBihnhhqJ5gROmAIsLGaEYlzgjE7JmDEMYGe+D MRFhgDUxAP2uiFWeicEcwmD+x4LP30ga/6AY8I/hBITxFx6NEKczMfnjcKgBmJI1 YEERZufkZRxNypQbAAA8nTT4ziswsQAAAABJRU5ErkJggg=="
              x="0"
              width="16"
-             transform="translate(442,310)"
+             transform="translate(44,217)"
              preserveAspectRatio="none"
              height="16"
              clip-path="url(#clipPath25)"
              style="fill:#ffffff;stroke:#ffffff" />
           <text
-             id="text1083"
-             y="323"
+             id="text1060"
+             y="230"
              xml:space="preserve"
-             x="461"
+             x="63"
              clip-path="url(#clipPath26)"
-             style="fill:#000000;stroke:none">conjunto_id</text>
+             style="fill:#000000;stroke:none">nombres</text>
           <image
-             id="image1085"
+             id="image1062"
              y="0"
-             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA40lEQVR42mP8//8/ AyWAiYFCQLEBLCCCccIFmD8Y/xcYgPgGQPZ5JHWGQPELSOr+AvF3IOZhgQouBOJ4 JA0gzYJA/AGIwYYB1TGCLECymBskD2IoAvEDNAMYkdgPsLicEWo4IxMOBWAA8g4Q vAfiRiQ+yMXPgbgQHIggQagEukYBqPcmAnEDmu0iQNwPxBOwxgI0EEE2BwJxAZKh 6N7IxxWNoEA0BOINMM1AQ2EughlmADGl//wEkEnIUYYWhcg2LkALbENGUFIGmkxK 2lEAYk8gng5PSFj8hw88gGkeHHmBYgMA0BNI/5xkyR8AAAAASUVORK5CYII="
+             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAqUlEQVR42mP8//8/ AyWAiYFCMPAGsIAIxgkXvgEpTgZGhrf/8w1EoGKQwGFk/P8/Xx9uEePEi+8Y/v8X BDK//y8w4GJk6D8P0YwKGIEYJXSBihnhhqJ5gROmAIsLGaEYlzgjE7JmDEMYGe+D MRFhgDUxAP2uiFWeicEcwmD+x4LP30ga/6AY8I/hBITxFx6NEKczMfnjcKgBmJI1 YEERZufkZRxNypQbAAA8nTT4ziswsQAAAABJRU5ErkJggg=="
              x="0"
              width="16"
-             transform="translate(442,329)"
+             transform="translate(44,236)"
              preserveAspectRatio="none"
              height="16"
-             clip-path="url(#clipPath8)"
+             clip-path="url(#clipPath25)"
              style="fill:#000000;stroke:#000000" />
           <text
-             id="text1087"
-             y="342"
+             id="text1064"
+             y="249"
              xml:space="preserve"
-             x="461"
+             x="63"
              clip-path="url(#clipPath27)"
-             style="fill:#000000;stroke:none">numero</text>
+             style="fill:#000000;stroke:none">apellidos</text>
           <line
-             id="line1089"
-             y2="305"
-             y1="305"
-             x2="532"
-             x1="439"
+             id="line1066"
+             y2="212"
+             y1="212"
+             x2="118"
+             x1="41"
              clip-path="url(#clipPath24)"
              style="fill:none" />
           <rect
-             id="rect1091"
-             y="258"
-             x="438"
-             width="95"
+             id="rect1068"
+             y="165"
+             x="40"
+             width="79"
              height="91"
              clip-path="url(#clipPath19)"
              style="fill:none" />
           <rect
-             id="rect1093"
-             y="258"
-             x="97"
-             width="81"
+             id="rect1070"
+             y="167"
+             x="177"
+             width="131"
              height="93"
              clip-path="url(#clipPath28)"
              style="fill:#ffffe1;stroke:none" />
           <image
-             id="image1095"
+             id="image1072"
              y="0"
              xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAmElEQVR42mP8//8/ AyWAiYFCwAJjME648A1IcRKr8X+BASPj1KuKTORohur5/z9b+z7MC5wUeyHFQgar gjknnmCVA4kTHYhf//ylLBa4WZgJewHmJFzeIGgAKFpwhjYWOZA4igFwCUaEWlgq ZZx9QYQhzfANujiSAYz/sEnCxVIN3jCkYk/yjHBboE4iJSUSFQY0z0wUGwAAEzg/ ADwqV4IAAAAASUVORK5CYII="
              x="0"
              width="16"
-             transform="translate(107,263)"
+             transform="translate(202,172)"
              preserveAspectRatio="none"
              height="16"
              clip-path="url(#clipPath29)"
              style="fill:#ffffe1;stroke:#ffffe1" />
           <text
-             id="text1097"
-             y="276"
+             id="text1074"
+             y="185"
              xml:space="preserve"
-             x="126"
+             x="221"
              clip-path="url(#clipPath30)"
-             style="fill:#000000;stroke:none">persona</text>
+             style="fill:#000000;stroke:none">vinculacion</text>
           <rect
-             id="rect1099"
-             y="282"
-             x="99"
-             width="77"
-             height="24"
+             id="rect1076"
+             y="191"
+             x="179"
+             width="127"
+             height="5"
              clip-path="url(#clipPath31)"
              style="fill:#ffffff;stroke:none" />
+          <line
+             id="line1078"
+             y2="191"
+             y1="191"
+             x2="306"
+             x1="179"
+             clip-path="url(#clipPath31)"
+             style="fill:none" />
+          <rect
+             id="rect1080"
+             y="196"
+             x="179"
+             width="127"
+             height="62"
+             clip-path="url(#clipPath32)"
+             style="fill:#ffffff;stroke:none" />
           <image
-             id="image1101"
+             id="image1082"
              y="0"
              xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA40lEQVR42mP8//8/ AyWAiYFCQLEBLCCCccIFmD8Y/xcYgPgGQPZ5JHWGQPELSOr+AvF3IOZhgQouBOJ4 JA0gzYJA/AGIwYYB1TGCLECymBskD2IoAvEDNAMYkdgPsLicEWo4IxMOBWAA8g4Q vAfiRiQ+yMXPgbgQHIggQagEukYBqPcmAnEDmu0iQNwPxBOwxgI0EEE2BwJxAZKh 6N7IxxWNoEA0BOINMM1AQ2EughlmADGl//wEkEnIUYYWhcg2LkALbENGUFIGmkxK 2lEAYk8gng5PSFj8hw88gGkeHHmBYgMA0BNI/5xkyR8AAAAASUVORK5CYII="
              x="0"
              width="16"
-             transform="translate(102,287)"
+             transform="translate(182,201)"
              preserveAspectRatio="none"
              height="16"
-             font-weight="bold"
-             clip-path="url(#clipPath5)"
-             style="font-weight:bold;fill:#ffffff;stroke:#ffffff" />
-          <text
-             id="text1103"
-             y="300"
-             xml:space="preserve"
-             x="121"
-             font-weight="bold"
-             clip-path="url(#clipPath32)"
-             style="font-weight:bold;fill:#000000;stroke:none">id</text>
-          <line
-             id="line1105"
-             y2="282"
-             y1="282"
-             x2="176"
-             x1="99"
-             clip-path="url(#clipPath31)"
-             style="fill:none" />
-          <rect
-             id="rect1107"
-             y="306"
-             x="99"
-             width="77"
-             height="43"
              clip-path="url(#clipPath33)"
-             style="fill:#ffffff;stroke:none" />
-          <image
-             id="image1109"
-             y="0"
-             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAqUlEQVR42mP8//8/ AyWAiYFCMPAGsIAIxgkXvgEpTgZGhrf/8w1EoGKQwGFk/P8/Xx9uEePEi+8Y/v8X BDK//y8w4GJk6D8P0YwKGIEYJXSBihnhhqJ5gROmAIsLGaEYlzgjE7JmDEMYGe+D MRFhgDUxAP2uiFWeicEcwmD+x4LP30ga/6AY8I/hBITxFx6NEKczMfnjcKgBmJI1 YEERZufkZRxNypQbAAA8nTT4ziswsQAAAABJRU5ErkJggg=="
-             x="0"
-             width="16"
-             transform="translate(102,311)"
-             preserveAspectRatio="none"
-             height="16"
-             clip-path="url(#clipPath34)"
              style="fill:#ffffff;stroke:#ffffff" />
           <text
-             id="text1111"
-             y="324"
+             id="text1084"
+             y="214"
              xml:space="preserve"
-             x="121"
-             clip-path="url(#clipPath35)"
-             style="fill:#000000;stroke:none">nombres</text>
+             x="201"
+             clip-path="url(#clipPath34)"
+             style="fill:#000000;stroke:none">persona_id</text>
           <image
-             id="image1113"
+             id="image1086"
              y="0"
-             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAqUlEQVR42mP8//8/ AyWAiYFCMPAGsIAIxgkXvgEpTgZGhrf/8w1EoGKQwGFk/P8/Xx9uEePEi+8Y/v8X BDK//y8w4GJk6D8P0YwKGIEYJXSBihnhhqJ5gROmAIsLGaEYlzgjE7JmDEMYGe+D MRFhgDUxAP2uiFWeicEcwmD+x4LP30ga/6AY8I/hBITxFx6NEKczMfnjcKgBmJI1 YEERZufkZRxNypQbAAA8nTT4ziswsQAAAABJRU5ErkJggg=="
+             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA40lEQVR42mP8//8/ AyWAiYFCQLEBLCCCccIFmD8Y/xcYgPgGQPZ5JHWGQPELSOr+AvF3IOZhgQouBOJ4 JA0gzYJA/AGIwYYB1TGCLECymBskD2IoAvEDNAMYkdgPsLicEWo4IxMOBWAA8g4Q vAfiRiQ+yMXPgbgQHIggQagEukYBqPcmAnEDmu0iQNwPxBOwxgI0EEE2BwJxAZKh 6N7IxxWNoEA0BOINMM1AQ2EughlmADGl//wEkEnIUYYWhcg2LkALbENGUFIGmkxK 2lEAYk8gng5PSFj8hw88gGkeHHmBYgMA0BNI/5xkyR8AAAAASUVORK5CYII="
              x="0"
              width="16"
-             transform="translate(102,330)"
+             transform="translate(182,220)"
              preserveAspectRatio="none"
              height="16"
-             clip-path="url(#clipPath34)"
+             clip-path="url(#clipPath35)"
              style="fill:#000000;stroke:#000000" />
           <text
-             id="text1115"
-             y="343"
+             id="text1088"
+             y="233"
              xml:space="preserve"
-             x="121"
+             x="201"
              clip-path="url(#clipPath36)"
-             style="fill:#000000;stroke:none">apellidos</text>
+             style="fill:#000000;stroke:none">imueble_id</text>
+          <image
+             id="image1090"
+             y="0"
+             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA40lEQVR42mP8//8/ AyWAiYFCQLEBLCCCccIFmD8Y/xcYgPgGQPZ5JHWGQPELSOr+AvF3IOZhgQouBOJ4 JA0gzYJA/AGIwYYB1TGCLECymBskD2IoAvEDNAMYkdgPsLicEWo4IxMOBWAA8g4Q vAfiRiQ+yMXPgbgQHIggQagEukYBqPcmAnEDmu0iQNwPxBOwxgI0EEE2BwJxAZKh 6N7IxxWNoEA0BOINMM1AQ2EughlmADGl//wEkEnIUYYWhcg2LkALbENGUFIGmkxK 2lEAYk8gng5PSFj8hw88gGkeHHmBYgMA0BNI/5xkyR8AAAAASUVORK5CYII="
+             x="0"
+             width="16"
+             transform="translate(182,239)"
+             preserveAspectRatio="none"
+             height="16"
+             clip-path="url(#clipPath37)"
+             style="fill:#000000;stroke:#000000" />
+          <text
+             id="text1092"
+             y="252"
+             xml:space="preserve"
+             x="201"
+             clip-path="url(#clipPath38)"
+             style="fill:#000000;stroke:none">tipovinculacion_id</text>
           <line
-             id="line1117"
-             y2="306"
-             y1="306"
-             x2="176"
-             x1="99"
-             clip-path="url(#clipPath33)"
+             id="line1094"
+             y2="196"
+             y1="196"
+             x2="306"
+             x1="179"
+             clip-path="url(#clipPath32)"
              style="fill:none" />
           <rect
-             id="rect1119"
-             y="259"
-             x="98"
-             width="79"
+             id="rect1096"
+             y="168"
+             x="178"
+             width="129"
              height="91"
              clip-path="url(#clipPath28)"
              style="fill:none" />
           <rect
-             id="rect1121"
-             y="411"
-             x="65"
-             width="139"
+             id="rect1098"
+             y="321"
+             x="180"
+             width="116"
              height="74"
-             clip-path="url(#clipPath37)"
-             style="fill:#ffffe1;stroke:none" />
-          <image
-             id="image1123"
-             y="0"
-             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAmElEQVR42mP8//8/ AyWAiYFCwAJjME648A1IcRKr8X+BASPj1KuKTORohur5/z9b+z7MC5wUeyHFQgar gjknnmCVA4kTHYhf//ylLBa4WZgJewHmJFzeIGgAKFpwhjYWOZA4igFwCUaEWlgq ZZx9QYQhzfANujiSAYz/sEnCxVIN3jCkYk/yjHBboE4iJSUSFQY0z0wUGwAAEzg/ ADwqV4IAAAAASUVORK5CYII="
-             x="0"
-             width="16"
-             transform="translate(70,416)"
-             preserveAspectRatio="none"
-             height="16"
-             clip-path="url(#clipPath38)"
-             style="fill:#ffffe1;stroke:#ffffe1" />
-          <text
-             id="text1125"
-             y="429"
-             xml:space="preserve"
-             x="89"
              clip-path="url(#clipPath39)"
-             style="fill:#000000;stroke:none">persona_tipopersona</text>
-          <rect
-             id="rect1127"
-             y="435"
-             x="67"
-             width="135"
-             height="24"
-             clip-path="url(#clipPath40)"
-             style="fill:#ffffff;stroke:none" />
-          <image
-             id="image1129"
-             y="0"
-             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA40lEQVR42mP8//8/ AyWAiYFCQLEBLCCCccIFmD8Y/xcYgPgGQPZ5JHWGQPELSOr+AvF3IOZhgQouBOJ4 JA0gzYJA/AGIwYYB1TGCLECymBskD2IoAvEDNAMYkdgPsLicEWo4IxMOBWAA8g4Q vAfiRiQ+yMXPgbgQHIggQagEukYBqPcmAnEDmu0iQNwPxBOwxgI0EEE2BwJxAZKh 6N7IxxWNoEA0BOINMM1AQ2EughlmADGl//wEkEnIUYYWhcg2LkALbENGUFIGmkxK 2lEAYk8gng5PSFj8hw88gGkeHHmBYgMA0BNI/5xkyR8AAAAASUVORK5CYII="
-             x="0"
-             width="16"
-             transform="translate(70,440)"
-             preserveAspectRatio="none"
-             height="16"
-             font-weight="bold"
-             clip-path="url(#clipPath41)"
-             style="font-weight:bold;fill:#ffffff;stroke:#ffffff" />
-          <text
-             id="text1131"
-             y="453"
-             xml:space="preserve"
-             x="89"
-             font-weight="bold"
-             clip-path="url(#clipPath42)"
-             style="font-weight:bold;fill:#000000;stroke:none">persona_id</text>
-          <line
-             id="line1133"
-             y2="435"
-             y1="435"
-             x2="202"
-             x1="67"
-             clip-path="url(#clipPath40)"
-             style="fill:none" />
-          <rect
-             id="rect1135"
-             y="459"
-             x="67"
-             width="135"
-             height="24"
-             clip-path="url(#clipPath43)"
-             style="fill:#ffffff;stroke:none" />
-          <image
-             id="image1137"
-             y="0"
-             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA40lEQVR42mP8//8/ AyWAiYFCQLEBLCCCccIFmD8Y/xcYgPgGQPZ5JHWGQPELSOr+AvF3IOZhgQouBOJ4 JA0gzYJA/AGIwYYB1TGCLECymBskD2IoAvEDNAMYkdgPsLicEWo4IxMOBWAA8g4Q vAfiRiQ+yMXPgbgQHIggQagEukYBqPcmAnEDmu0iQNwPxBOwxgI0EEE2BwJxAZKh 6N7IxxWNoEA0BOINMM1AQ2EughlmADGl//wEkEnIUYYWhcg2LkALbENGUFIGmkxK 2lEAYk8gng5PSFj8hw88gGkeHHmBYgMA0BNI/5xkyR8AAAAASUVORK5CYII="
-             x="0"
-             width="16"
-             transform="translate(70,464)"
-             preserveAspectRatio="none"
-             height="16"
-             clip-path="url(#clipPath44)"
-             style="fill:#ffffff;stroke:#ffffff" />
-          <text
-             id="text1139"
-             y="477"
-             xml:space="preserve"
-             x="89"
-             clip-path="url(#clipPath45)"
-             style="fill:#000000;stroke:none">tipopersona_id</text>
-          <line
-             id="line1141"
-             y2="459"
-             y1="459"
-             x2="202"
-             x1="67"
-             clip-path="url(#clipPath43)"
-             style="fill:none" />
-          <rect
-             id="rect1143"
-             y="412"
-             x="66"
-             width="137"
-             height="72"
-             clip-path="url(#clipPath37)"
-             style="fill:none" />
-          <rect
-             id="rect1145"
-             y="538"
-             x="90"
-             width="97"
-             height="74"
-             clip-path="url(#clipPath46)"
              style="fill:#ffffe1;stroke:none" />
           <image
-             id="image1147"
+             id="image1100"
              y="0"
              xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAmElEQVR42mP8//8/ AyWAiYFCwAJjME648A1IcRKr8X+BASPj1KuKTORohur5/z9b+z7MC5wUeyHFQgar gjknnmCVA4kTHYhf//ylLBa4WZgJewHmJFzeIGgAKFpwhjYWOZA4igFwCUaEWlgq ZZx9QYQhzfANujiSAYz/sEnCxVIN3jCkYk/yjHBboE4iJSUSFQY0z0wUGwAAEzg/ ADwqV4IAAAAASUVORK5CYII="
              x="0"
              width="16"
-             transform="translate(95,543)"
+             transform="translate(185,326)"
              preserveAspectRatio="none"
              height="16"
-             clip-path="url(#clipPath47)"
+             clip-path="url(#clipPath40)"
              style="fill:#ffffe1;stroke:#ffffe1" />
           <text
-             id="text1149"
-             y="556"
+             id="text1102"
+             y="339"
              xml:space="preserve"
-             x="114"
-             clip-path="url(#clipPath48)"
-             style="fill:#000000;stroke:none">tipo_persona</text>
+             x="204"
+             clip-path="url(#clipPath41)"
+             style="fill:#000000;stroke:none">tipo_vinculacion</text>
           <rect
-             id="rect1151"
-             y="562"
-             x="92"
-             width="93"
+             id="rect1104"
+             y="345"
+             x="182"
+             width="112"
              height="24"
-             clip-path="url(#clipPath49)"
+             clip-path="url(#clipPath42)"
              style="fill:#ffffff;stroke:none" />
           <image
-             id="image1153"
+             id="image1106"
              y="0"
              xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA40lEQVR42mP8//8/ AyWAiYFCQLEBLCCCccIFmD8Y/xcYgPgGQPZ5JHWGQPELSOr+AvF3IOZhgQouBOJ4 JA0gzYJA/AGIwYYB1TGCLECymBskD2IoAvEDNAMYkdgPsLicEWo4IxMOBWAA8g4Q vAfiRiQ+yMXPgbgQHIggQagEukYBqPcmAnEDmu0iQNwPxBOwxgI0EEE2BwJxAZKh 6N7IxxWNoEA0BOINMM1AQ2EughlmADGl//wEkEnIUYYWhcg2LkALbENGUFIGmkxK 2lEAYk8gng5PSFj8hw88gGkeHHmBYgMA0BNI/5xkyR8AAAAASUVORK5CYII="
              x="0"
              width="16"
-             transform="translate(95,567)"
+             transform="translate(185,350)"
              preserveAspectRatio="none"
              height="16"
              font-weight="bold"
              clip-path="url(#clipPath5)"
              style="font-weight:bold;fill:#ffffff;stroke:#ffffff" />
           <text
-             id="text1155"
-             y="580"
+             id="text1108"
+             y="363"
              xml:space="preserve"
-             x="114"
+             x="204"
              font-weight="bold"
-             clip-path="url(#clipPath50)"
+             clip-path="url(#clipPath43)"
              style="font-weight:bold;fill:#000000;stroke:none">id</text>
           <line
-             id="line1157"
-             y2="562"
-             y1="562"
-             x2="185"
-             x1="92"
-             clip-path="url(#clipPath49)"
+             id="line1110"
+             y2="345"
+             y1="345"
+             x2="294"
+             x1="182"
+             clip-path="url(#clipPath42)"
              style="fill:none" />
           <rect
-             id="rect1159"
-             y="586"
-             x="92"
-             width="93"
+             id="rect1112"
+             y="369"
+             x="182"
+             width="112"
              height="24"
-             clip-path="url(#clipPath51)"
+             clip-path="url(#clipPath44)"
              style="fill:#ffffff;stroke:none" />
           <image
-             id="image1161"
+             id="image1114"
              y="0"
              xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAqUlEQVR42mP8//8/ AyWAiYFCMPAGsIAIxgkXvgEpTgZGhrf/8w1EoGKQwGFk/P8/Xx9uEePEi+8Y/v8X BDK//y8w4GJk6D8P0YwKGIEYJXSBihnhhqJ5gROmAIsLGaEYlzgjE7JmDEMYGe+D MRFhgDUxAP2uiFWeicEcwmD+x4LP30ga/6AY8I/hBITxFx6NEKczMfnjcKgBmJI1 YEERZufkZRxNypQbAAA8nTT4ziswsQAAAABJRU5ErkJggg=="
              x="0"
              width="16"
-             transform="translate(95,591)"
+             transform="translate(185,374)"
              preserveAspectRatio="none"
              height="16"
              clip-path="url(#clipPath8)"
              style="fill:#ffffff;stroke:#ffffff" />
           <text
-             id="text1163"
-             y="604"
+             id="text1116"
+             y="387"
              xml:space="preserve"
-             x="114"
-             clip-path="url(#clipPath52)"
+             x="204"
+             clip-path="url(#clipPath45)"
              style="fill:#000000;stroke:none">nombre</text>
           <line
-             id="line1165"
-             y2="586"
-             y1="586"
-             x2="185"
-             x1="92"
-             clip-path="url(#clipPath51)"
+             id="line1118"
+             y2="369"
+             y1="369"
+             x2="294"
+             x1="182"
+             clip-path="url(#clipPath44)"
              style="fill:none" />
           <rect
-             id="rect1167"
-             y="539"
-             x="91"
-             width="95"
+             id="rect1120"
+             y="322"
+             x="181"
+             width="114"
              height="72"
-             clip-path="url(#clipPath46)"
+             clip-path="url(#clipPath39)"
              style="fill:none" />
           <rect
-             id="rect1169"
-             y="127"
-             x="450"
+             id="rect1122"
+             y="33"
+             x="392"
              width="77"
              height="74"
              clip-path="url(#clipPath1)"
              style="fill:#ffffe1;stroke:none" />
           <image
-             id="image1171"
+             id="image1124"
              y="0"
              xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAmElEQVR42mP8//8/ AyWAiYFCwAJjME648A1IcRKr8X+BASPj1KuKTORohur5/z9b+z7MC5wUeyHFQgar gjknnmCVA4kTHYhf//ylLBa4WZgJewHmJFzeIGgAKFpwhjYWOZA4igFwCUaEWlgq ZZx9QYQhzfANujiSAYz/sEnCxVIN3jCkYk/yjHBboE4iJSUSFQY0z0wUGwAAEzg/ ADwqV4IAAAAASUVORK5CYII="
              x="0"
              width="16"
-             transform="translate(455,132)"
+             transform="translate(397,38)"
              preserveAspectRatio="none"
              height="16"
              clip-path="url(#clipPath2)"
              style="fill:#ffffe1;stroke:#ffffe1" />
           <text
-             id="text1173"
-             y="145"
+             id="text1126"
+             y="51"
              xml:space="preserve"
-             x="474"
+             x="416"
              clip-path="url(#clipPath3)"
              style="fill:#000000;stroke:none">conjunto</text>
           <rect
-             id="rect1175"
-             y="151"
-             x="452"
+             id="rect1128"
+             y="57"
+             x="394"
              width="73"
              height="24"
              clip-path="url(#clipPath4)"
              style="fill:#ffffff;stroke:none" />
           <image
-             id="image1177"
+             id="image1130"
              y="0"
              xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA40lEQVR42mP8//8/ AyWAiYFCQLEBLCCCccIFmD8Y/xcYgPgGQPZ5JHWGQPELSOr+AvF3IOZhgQouBOJ4 JA0gzYJA/AGIwYYB1TGCLECymBskD2IoAvEDNAMYkdgPsLicEWo4IxMOBWAA8g4Q vAfiRiQ+yMXPgbgQHIggQagEukYBqPcmAnEDmu0iQNwPxBOwxgI0EEE2BwJxAZKh 6N7IxxWNoEA0BOINMM1AQ2EughlmADGl//wEkEnIUYYWhcg2LkALbENGUFIGmkxK 2lEAYk8gng5PSFj8hw88gGkeHHmBYgMA0BNI/5xkyR8AAAAASUVORK5CYII="
              x="0"
              width="16"
-             transform="translate(455,156)"
+             transform="translate(397,62)"
              preserveAspectRatio="none"
              height="16"
              font-weight="bold"
              clip-path="url(#clipPath5)"
              style="font-weight:bold;fill:#ffffff;stroke:#ffffff" />
           <text
-             id="text1179"
-             y="169"
+             id="text1132"
+             y="75"
              xml:space="preserve"
-             x="474"
+             x="416"
              font-weight="bold"
              clip-path="url(#clipPath6)"
              style="font-weight:bold;fill:#000000;stroke:none">id</text>
           <line
-             id="line1181"
-             y2="151"
-             y1="151"
-             x2="525"
-             x1="452"
+             id="line1134"
+             y2="57"
+             y1="57"
+             x2="467"
+             x1="394"
              clip-path="url(#clipPath4)"
              style="fill:none" />
           <rect
-             id="rect1183"
-             y="175"
-             x="452"
+             id="rect1136"
+             y="81"
+             x="394"
              width="73"
              height="24"
              clip-path="url(#clipPath7)"
              style="fill:#ffffff;stroke:none" />
           <image
-             id="image1185"
+             id="image1138"
              y="0"
              xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAqUlEQVR42mP8//8/ AyWAiYFCMPAGsIAIxgkXvgEpTgZGhrf/8w1EoGKQwGFk/P8/Xx9uEePEi+8Y/v8X BDK//y8w4GJk6D8P0YwKGIEYJXSBihnhhqJ5gROmAIsLGaEYlzgjE7JmDEMYGe+D MRFhgDUxAP2uiFWeicEcwmD+x4LP30ga/6AY8I/hBITxFx6NEKczMfnjcKgBmJI1 YEERZufkZRxNypQbAAA8nTT4ziswsQAAAABJRU5ErkJggg=="
              x="0"
              width="16"
-             transform="translate(455,180)"
+             transform="translate(397,86)"
              preserveAspectRatio="none"
              height="16"
              clip-path="url(#clipPath8)"
              style="fill:#ffffff;stroke:#ffffff" />
           <text
-             id="text1187"
-             y="193"
+             id="text1140"
+             y="99"
              xml:space="preserve"
-             x="474"
+             x="416"
              clip-path="url(#clipPath9)"
              style="fill:#000000;stroke:none">nombre</text>
           <line
-             id="line1189"
-             y2="175"
-             y1="175"
-             x2="525"
-             x1="452"
+             id="line1142"
+             y2="81"
+             y1="81"
+             x2="467"
+             x1="394"
              clip-path="url(#clipPath7)"
              style="fill:none" />
           <rect
-             id="rect1191"
-             y="128"
-             x="451"
+             id="rect1144"
+             y="34"
+             x="393"
              width="75"
              height="72"
              clip-path="url(#clipPath1)"
              style="fill:none" />
           <rect
-             id="rect1193"
-             y="270"
-             x="259"
-             width="92"
-             height="74"
+             id="rect1146"
+             y="163"
+             x="379"
+             width="97"
+             height="93"
              clip-path="url(#clipPath10)"
              style="fill:#ffffe1;stroke:none" />
           <image
-             id="image1195"
+             id="image1148"
              y="0"
              xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAmElEQVR42mP8//8/ AyWAiYFCwAJjME648A1IcRKr8X+BASPj1KuKTORohur5/z9b+z7MC5wUeyHFQgar gjknnmCVA4kTHYhf//ylLBa4WZgJewHmJFzeIGgAKFpwhjYWOZA4igFwCUaEWlgq ZZx9QYQhzfANujiSAYz/sEnCxVIN3jCkYk/yjHBboE4iJSUSFQY0z0wUGwAAEzg/ ADwqV4IAAAAASUVORK5CYII="
              x="0"
              width="16"
-             transform="translate(270,275)"
+             transform="translate(396,168)"
              preserveAspectRatio="none"
              height="16"
              clip-path="url(#clipPath11)"
              style="fill:#ffffe1;stroke:#ffffe1" />
           <text
-             id="text1197"
-             y="288"
+             id="text1150"
+             y="181"
              xml:space="preserve"
-             x="289"
+             x="415"
              clip-path="url(#clipPath12)"
-             style="fill:#000000;stroke:none">habitante</text>
+             style="fill:#000000;stroke:none">imueble</text>
           <rect
-             id="rect1199"
-             y="294"
-             x="261"
-             width="88"
-             height="5"
+             id="rect1152"
+             y="187"
+             x="381"
+             width="93"
+             height="24"
              clip-path="url(#clipPath13)"
-             style="fill:#ffffff;stroke:none" />
-          <line
-             id="line1201"
-             y2="294"
-             y1="294"
-             x2="349"
-             x1="261"
-             clip-path="url(#clipPath13)"
-             style="fill:none" />
-          <rect
-             id="rect1203"
-             y="299"
-             x="261"
-             width="88"
-             height="43"
-             clip-path="url(#clipPath14)"
              style="fill:#ffffff;stroke:none" />
           <image
-             id="image1205"
+             id="image1154"
              y="0"
              xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA40lEQVR42mP8//8/ AyWAiYFCQLEBLCCCccIFmD8Y/xcYgPgGQPZ5JHWGQPELSOr+AvF3IOZhgQouBOJ4 JA0gzYJA/AGIwYYB1TGCLECymBskD2IoAvEDNAMYkdgPsLicEWo4IxMOBWAA8g4Q vAfiRiQ+yMXPgbgQHIggQagEukYBqPcmAnEDmu0iQNwPxBOwxgI0EEE2BwJxAZKh 6N7IxxWNoEA0BOINMM1AQ2EughlmADGl//wEkEnIUYYWhcg2LkALbENGUFIGmkxK 2lEAYk8gng5PSFj8hw88gGkeHHmBYgMA0BNI/5xkyR8AAAAASUVORK5CYII="
              x="0"
              width="16"
-             transform="translate(264,304)"
+             transform="translate(384,192)"
              preserveAspectRatio="none"
              height="16"
+             font-weight="bold"
+             clip-path="url(#clipPath5)"
+             style="font-weight:bold;fill:#ffffff;stroke:#ffffff" />
+          <text
+             id="text1156"
+             y="205"
+             xml:space="preserve"
+             x="403"
+             font-weight="bold"
+             clip-path="url(#clipPath14)"
+             style="font-weight:bold;fill:#000000;stroke:none">id</text>
+          <line
+             id="line1158"
+             y2="187"
+             y1="187"
+             x2="474"
+             x1="381"
+             clip-path="url(#clipPath13)"
+             style="fill:none" />
+          <rect
+             id="rect1160"
+             y="211"
+             x="381"
+             width="93"
+             height="43"
              clip-path="url(#clipPath15)"
+             style="fill:#ffffff;stroke:none" />
+          <image
+             id="image1162"
+             y="0"
+             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA40lEQVR42mP8//8/ AyWAiYFCQLEBLCCCccIFmD8Y/xcYgPgGQPZ5JHWGQPELSOr+AvF3IOZhgQouBOJ4 JA0gzYJA/AGIwYYB1TGCLECymBskD2IoAvEDNAMYkdgPsLicEWo4IxMOBWAA8g4Q vAfiRiQ+yMXPgbgQHIggQagEukYBqPcmAnEDmu0iQNwPxBOwxgI0EEE2BwJxAZKh 6N7IxxWNoEA0BOINMM1AQ2EughlmADGl//wEkEnIUYYWhcg2LkALbENGUFIGmkxK 2lEAYk8gng5PSFj8hw88gGkeHHmBYgMA0BNI/5xkyR8AAAAASUVORK5CYII="
+             x="0"
+             width="16"
+             transform="translate(384,216)"
+             preserveAspectRatio="none"
+             height="16"
+             clip-path="url(#clipPath16)"
              style="fill:#ffffff;stroke:#ffffff" />
           <text
-             id="text1207"
-             y="317"
+             id="text1164"
+             y="229"
              xml:space="preserve"
-             x="283"
-             clip-path="url(#clipPath16)"
-             style="fill:#000000;stroke:none">persona_id</text>
+             x="403"
+             clip-path="url(#clipPath17)"
+             style="fill:#000000;stroke:none">conjunto_id</text>
           <image
-             id="image1209"
+             id="image1166"
              y="0"
              xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA40lEQVR42mP8//8/ AyWAiYFCQLEBLCCCccIFmD8Y/xcYgPgGQPZ5JHWGQPELSOr+AvF3IOZhgQouBOJ4 JA0gzYJA/AGIwYYB1TGCLECymBskD2IoAvEDNAMYkdgPsLicEWo4IxMOBWAA8g4Q vAfiRiQ+yMXPgbgQHIggQagEukYBqPcmAnEDmu0iQNwPxBOwxgI0EEE2BwJxAZKh 6N7IxxWNoEA0BOINMM1AQ2EughlmADGl//wEkEnIUYYWhcg2LkALbENGUFIGmkxK 2lEAYk8gng5PSFj8hw88gGkeHHmBYgMA0BNI/5xkyR8AAAAASUVORK5CYII="
              x="0"
              width="16"
-             transform="translate(264,323)"
+             transform="translate(384,235)"
              preserveAspectRatio="none"
              height="16"
-             clip-path="url(#clipPath17)"
+             clip-path="url(#clipPath8)"
              style="fill:#000000;stroke:#000000" />
           <text
-             id="text1211"
-             y="336"
+             id="text1168"
+             y="248"
              xml:space="preserve"
-             x="283"
+             x="403"
              clip-path="url(#clipPath18)"
-             style="fill:#000000;stroke:none">imueble_id</text>
+             style="fill:#000000;stroke:none">numero</text>
           <line
-             id="line1213"
-             y2="299"
-             y1="299"
-             x2="349"
-             x1="261"
-             clip-path="url(#clipPath14)"
+             id="line1170"
+             y2="211"
+             y1="211"
+             x2="474"
+             x1="381"
+             clip-path="url(#clipPath15)"
              style="fill:none" />
           <rect
-             id="rect1215"
-             y="271"
-             x="260"
-             width="90"
-             height="72"
+             id="rect1172"
+             y="164"
+             x="380"
+             width="95"
+             height="91"
              clip-path="url(#clipPath10)"
              style="fill:none" />
           <rect
-             id="rect1217"
-             y="257"
-             x="437"
-             width="97"
+             id="rect1174"
+             y="164"
+             x="39"
+             width="81"
              height="93"
              clip-path="url(#clipPath19)"
              style="fill:#ffffe1;stroke:none" />
           <image
-             id="image1219"
+             id="image1176"
              y="0"
              xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAmElEQVR42mP8//8/ AyWAiYFCwAJjME648A1IcRKr8X+BASPj1KuKTORohur5/z9b+z7MC5wUeyHFQgar gjknnmCVA4kTHYhf//ylLBa4WZgJewHmJFzeIGgAKFpwhjYWOZA4igFwCUaEWlgq ZZx9QYQhzfANujiSAYz/sEnCxVIN3jCkYk/yjHBboE4iJSUSFQY0z0wUGwAAEzg/ ADwqV4IAAAAASUVORK5CYII="
              x="0"
              width="16"
-             transform="translate(454,262)"
+             transform="translate(49,169)"
              preserveAspectRatio="none"
              height="16"
              clip-path="url(#clipPath20)"
              style="fill:#ffffe1;stroke:#ffffe1" />
           <text
-             id="text1221"
-             y="275"
+             id="text1178"
+             y="182"
              xml:space="preserve"
-             x="473"
+             x="68"
              clip-path="url(#clipPath21)"
-             style="fill:#000000;stroke:none">imueble</text>
+             style="fill:#000000;stroke:none">persona</text>
           <rect
-             id="rect1223"
-             y="281"
-             x="439"
-             width="93"
+             id="rect1180"
+             y="188"
+             x="41"
+             width="77"
              height="24"
              clip-path="url(#clipPath22)"
              style="fill:#ffffff;stroke:none" />
           <image
-             id="image1225"
+             id="image1182"
              y="0"
              xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA40lEQVR42mP8//8/ AyWAiYFCQLEBLCCCccIFmD8Y/xcYgPgGQPZ5JHWGQPELSOr+AvF3IOZhgQouBOJ4 JA0gzYJA/AGIwYYB1TGCLECymBskD2IoAvEDNAMYkdgPsLicEWo4IxMOBWAA8g4Q vAfiRiQ+yMXPgbgQHIggQagEukYBqPcmAnEDmu0iQNwPxBOwxgI0EEE2BwJxAZKh 6N7IxxWNoEA0BOINMM1AQ2EughlmADGl//wEkEnIUYYWhcg2LkALbENGUFIGmkxK 2lEAYk8gng5PSFj8hw88gGkeHHmBYgMA0BNI/5xkyR8AAAAASUVORK5CYII="
              x="0"
              width="16"
-             transform="translate(442,286)"
+             transform="translate(44,193)"
              preserveAspectRatio="none"
              height="16"
              font-weight="bold"
              clip-path="url(#clipPath5)"
              style="font-weight:bold;fill:#ffffff;stroke:#ffffff" />
           <text
-             id="text1227"
-             y="299"
+             id="text1184"
+             y="206"
              xml:space="preserve"
-             x="461"
+             x="63"
              font-weight="bold"
              clip-path="url(#clipPath23)"
              style="font-weight:bold;fill:#000000;stroke:none">id</text>
           <line
-             id="line1229"
-             y2="281"
-             y1="281"
-             x2="532"
-             x1="439"
+             id="line1186"
+             y2="188"
+             y1="188"
+             x2="118"
+             x1="41"
              clip-path="url(#clipPath22)"
              style="fill:none" />
           <rect
-             id="rect1231"
-             y="305"
-             x="439"
-             width="93"
+             id="rect1188"
+             y="212"
+             x="41"
+             width="77"
              height="43"
              clip-path="url(#clipPath24)"
              style="fill:#ffffff;stroke:none" />
           <image
-             id="image1233"
+             id="image1190"
              y="0"
-             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA40lEQVR42mP8//8/ AyWAiYFCQLEBLCCCccIFmD8Y/xcYgPgGQPZ5JHWGQPELSOr+AvF3IOZhgQouBOJ4 JA0gzYJA/AGIwYYB1TGCLECymBskD2IoAvEDNAMYkdgPsLicEWo4IxMOBWAA8g4Q vAfiRiQ+yMXPgbgQHIggQagEukYBqPcmAnEDmu0iQNwPxBOwxgI0EEE2BwJxAZKh 6N7IxxWNoEA0BOINMM1AQ2EughlmADGl//wEkEnIUYYWhcg2LkALbENGUFIGmkxK 2lEAYk8gng5PSFj8hw88gGkeHHmBYgMA0BNI/5xkyR8AAAAASUVORK5CYII="
+             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAqUlEQVR42mP8//8/ AyWAiYFCMPAGsIAIxgkXvgEpTgZGhrf/8w1EoGKQwGFk/P8/Xx9uEePEi+8Y/v8X BDK//y8w4GJk6D8P0YwKGIEYJXSBihnhhqJ5gROmAIsLGaEYlzgjE7JmDEMYGe+D MRFhgDUxAP2uiFWeicEcwmD+x4LP30ga/6AY8I/hBITxFx6NEKczMfnjcKgBmJI1 YEERZufkZRxNypQbAAA8nTT4ziswsQAAAABJRU5ErkJggg=="
              x="0"
              width="16"
-             transform="translate(442,310)"
+             transform="translate(44,217)"
              preserveAspectRatio="none"
              height="16"
              clip-path="url(#clipPath25)"
              style="fill:#ffffff;stroke:#ffffff" />
           <text
-             id="text1235"
-             y="323"
+             id="text1192"
+             y="230"
              xml:space="preserve"
-             x="461"
+             x="63"
              clip-path="url(#clipPath26)"
-             style="fill:#000000;stroke:none">conjunto_id</text>
+             style="fill:#000000;stroke:none">nombres</text>
           <image
-             id="image1237"
+             id="image1194"
              y="0"
-             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA40lEQVR42mP8//8/ AyWAiYFCQLEBLCCCccIFmD8Y/xcYgPgGQPZ5JHWGQPELSOr+AvF3IOZhgQouBOJ4 JA0gzYJA/AGIwYYB1TGCLECymBskD2IoAvEDNAMYkdgPsLicEWo4IxMOBWAA8g4Q vAfiRiQ+yMXPgbgQHIggQagEukYBqPcmAnEDmu0iQNwPxBOwxgI0EEE2BwJxAZKh 6N7IxxWNoEA0BOINMM1AQ2EughlmADGl//wEkEnIUYYWhcg2LkALbENGUFIGmkxK 2lEAYk8gng5PSFj8hw88gGkeHHmBYgMA0BNI/5xkyR8AAAAASUVORK5CYII="
+             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAqUlEQVR42mP8//8/ AyWAiYFCMPAGsIAIxgkXvgEpTgZGhrf/8w1EoGKQwGFk/P8/Xx9uEePEi+8Y/v8X BDK//y8w4GJk6D8P0YwKGIEYJXSBihnhhqJ5gROmAIsLGaEYlzgjE7JmDEMYGe+D MRFhgDUxAP2uiFWeicEcwmD+x4LP30ga/6AY8I/hBITxFx6NEKczMfnjcKgBmJI1 YEERZufkZRxNypQbAAA8nTT4ziswsQAAAABJRU5ErkJggg=="
              x="0"
              width="16"
-             transform="translate(442,329)"
+             transform="translate(44,236)"
              preserveAspectRatio="none"
              height="16"
-             clip-path="url(#clipPath8)"
+             clip-path="url(#clipPath25)"
              style="fill:#000000;stroke:#000000" />
           <text
-             id="text1239"
-             y="342"
+             id="text1196"
+             y="249"
              xml:space="preserve"
-             x="461"
+             x="63"
              clip-path="url(#clipPath27)"
-             style="fill:#000000;stroke:none">numero</text>
+             style="fill:#000000;stroke:none">apellidos</text>
           <line
-             id="line1241"
-             y2="305"
-             y1="305"
-             x2="532"
-             x1="439"
+             id="line1198"
+             y2="212"
+             y1="212"
+             x2="118"
+             x1="41"
              clip-path="url(#clipPath24)"
              style="fill:none" />
           <rect
-             id="rect1243"
-             y="258"
-             x="438"
-             width="95"
+             id="rect1200"
+             y="165"
+             x="40"
+             width="79"
              height="91"
              clip-path="url(#clipPath19)"
              style="fill:none" />
           <rect
-             id="rect1245"
-             y="258"
-             x="97"
-             width="81"
+             id="rect1202"
+             y="167"
+             x="177"
+             width="131"
              height="93"
              clip-path="url(#clipPath28)"
              style="fill:#ffffe1;stroke:none" />
           <image
-             id="image1247"
+             id="image1204"
              y="0"
              xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAmElEQVR42mP8//8/ AyWAiYFCwAJjME648A1IcRKr8X+BASPj1KuKTORohur5/z9b+z7MC5wUeyHFQgar gjknnmCVA4kTHYhf//ylLBa4WZgJewHmJFzeIGgAKFpwhjYWOZA4igFwCUaEWlgq ZZx9QYQhzfANujiSAYz/sEnCxVIN3jCkYk/yjHBboE4iJSUSFQY0z0wUGwAAEzg/ ADwqV4IAAAAASUVORK5CYII="
              x="0"
              width="16"
-             transform="translate(107,263)"
+             transform="translate(202,172)"
              preserveAspectRatio="none"
              height="16"
              clip-path="url(#clipPath29)"
              style="fill:#ffffe1;stroke:#ffffe1" />
           <text
-             id="text1249"
-             y="276"
+             id="text1206"
+             y="185"
              xml:space="preserve"
-             x="126"
+             x="221"
              clip-path="url(#clipPath30)"
-             style="fill:#000000;stroke:none">persona</text>
+             style="fill:#000000;stroke:none">vinculacion</text>
           <rect
-             id="rect1251"
-             y="282"
-             x="99"
-             width="77"
-             height="24"
+             id="rect1208"
+             y="191"
+             x="179"
+             width="127"
+             height="5"
              clip-path="url(#clipPath31)"
              style="fill:#ffffff;stroke:none" />
+          <line
+             id="line1210"
+             y2="191"
+             y1="191"
+             x2="306"
+             x1="179"
+             clip-path="url(#clipPath31)"
+             style="fill:none" />
+          <rect
+             id="rect1212"
+             y="196"
+             x="179"
+             width="127"
+             height="62"
+             clip-path="url(#clipPath32)"
+             style="fill:#ffffff;stroke:none" />
           <image
-             id="image1253"
+             id="image1214"
              y="0"
              xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA40lEQVR42mP8//8/ AyWAiYFCQLEBLCCCccIFmD8Y/xcYgPgGQPZ5JHWGQPELSOr+AvF3IOZhgQouBOJ4 JA0gzYJA/AGIwYYB1TGCLECymBskD2IoAvEDNAMYkdgPsLicEWo4IxMOBWAA8g4Q vAfiRiQ+yMXPgbgQHIggQagEukYBqPcmAnEDmu0iQNwPxBOwxgI0EEE2BwJxAZKh 6N7IxxWNoEA0BOINMM1AQ2EughlmADGl//wEkEnIUYYWhcg2LkALbENGUFIGmkxK 2lEAYk8gng5PSFj8hw88gGkeHHmBYgMA0BNI/5xkyR8AAAAASUVORK5CYII="
              x="0"
              width="16"
-             transform="translate(102,287)"
+             transform="translate(182,201)"
              preserveAspectRatio="none"
              height="16"
-             font-weight="bold"
-             clip-path="url(#clipPath5)"
-             style="font-weight:bold;fill:#ffffff;stroke:#ffffff" />
-          <text
-             id="text1255"
-             y="300"
-             xml:space="preserve"
-             x="121"
-             font-weight="bold"
-             clip-path="url(#clipPath32)"
-             style="font-weight:bold;fill:#000000;stroke:none">id</text>
-          <line
-             id="line1257"
-             y2="282"
-             y1="282"
-             x2="176"
-             x1="99"
-             clip-path="url(#clipPath31)"
-             style="fill:none" />
-          <rect
-             id="rect1259"
-             y="306"
-             x="99"
-             width="77"
-             height="43"
              clip-path="url(#clipPath33)"
-             style="fill:#ffffff;stroke:none" />
-          <image
-             id="image1261"
-             y="0"
-             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAqUlEQVR42mP8//8/ AyWAiYFCMPAGsIAIxgkXvgEpTgZGhrf/8w1EoGKQwGFk/P8/Xx9uEePEi+8Y/v8X BDK//y8w4GJk6D8P0YwKGIEYJXSBihnhhqJ5gROmAIsLGaEYlzgjE7JmDEMYGe+D MRFhgDUxAP2uiFWeicEcwmD+x4LP30ga/6AY8I/hBITxFx6NEKczMfnjcKgBmJI1 YEERZufkZRxNypQbAAA8nTT4ziswsQAAAABJRU5ErkJggg=="
-             x="0"
-             width="16"
-             transform="translate(102,311)"
-             preserveAspectRatio="none"
-             height="16"
-             clip-path="url(#clipPath34)"
              style="fill:#ffffff;stroke:#ffffff" />
           <text
-             id="text1263"
-             y="324"
+             id="text1216"
+             y="214"
              xml:space="preserve"
-             x="121"
-             clip-path="url(#clipPath35)"
-             style="fill:#000000;stroke:none">nombres</text>
+             x="201"
+             clip-path="url(#clipPath34)"
+             style="fill:#000000;stroke:none">persona_id</text>
           <image
-             id="image1265"
+             id="image1218"
              y="0"
-             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAqUlEQVR42mP8//8/ AyWAiYFCMPAGsIAIxgkXvgEpTgZGhrf/8w1EoGKQwGFk/P8/Xx9uEePEi+8Y/v8X BDK//y8w4GJk6D8P0YwKGIEYJXSBihnhhqJ5gROmAIsLGaEYlzgjE7JmDEMYGe+D MRFhgDUxAP2uiFWeicEcwmD+x4LP30ga/6AY8I/hBITxFx6NEKczMfnjcKgBmJI1 YEERZufkZRxNypQbAAA8nTT4ziswsQAAAABJRU5ErkJggg=="
+             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA40lEQVR42mP8//8/ AyWAiYFCQLEBLCCCccIFmD8Y/xcYgPgGQPZ5JHWGQPELSOr+AvF3IOZhgQouBOJ4 JA0gzYJA/AGIwYYB1TGCLECymBskD2IoAvEDNAMYkdgPsLicEWo4IxMOBWAA8g4Q vAfiRiQ+yMXPgbgQHIggQagEukYBqPcmAnEDmu0iQNwPxBOwxgI0EEE2BwJxAZKh 6N7IxxWNoEA0BOINMM1AQ2EughlmADGl//wEkEnIUYYWhcg2LkALbENGUFIGmkxK 2lEAYk8gng5PSFj8hw88gGkeHHmBYgMA0BNI/5xkyR8AAAAASUVORK5CYII="
              x="0"
              width="16"
-             transform="translate(102,330)"
+             transform="translate(182,220)"
              preserveAspectRatio="none"
              height="16"
-             clip-path="url(#clipPath34)"
+             clip-path="url(#clipPath35)"
              style="fill:#000000;stroke:#000000" />
           <text
-             id="text1267"
-             y="343"
+             id="text1220"
+             y="233"
              xml:space="preserve"
-             x="121"
+             x="201"
              clip-path="url(#clipPath36)"
-             style="fill:#000000;stroke:none">apellidos</text>
+             style="fill:#000000;stroke:none">imueble_id</text>
+          <image
+             id="image1222"
+             y="0"
+             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA40lEQVR42mP8//8/ AyWAiYFCQLEBLCCCccIFmD8Y/xcYgPgGQPZ5JHWGQPELSOr+AvF3IOZhgQouBOJ4 JA0gzYJA/AGIwYYB1TGCLECymBskD2IoAvEDNAMYkdgPsLicEWo4IxMOBWAA8g4Q vAfiRiQ+yMXPgbgQHIggQagEukYBqPcmAnEDmu0iQNwPxBOwxgI0EEE2BwJxAZKh 6N7IxxWNoEA0BOINMM1AQ2EughlmADGl//wEkEnIUYYWhcg2LkALbENGUFIGmkxK 2lEAYk8gng5PSFj8hw88gGkeHHmBYgMA0BNI/5xkyR8AAAAASUVORK5CYII="
+             x="0"
+             width="16"
+             transform="translate(182,239)"
+             preserveAspectRatio="none"
+             height="16"
+             clip-path="url(#clipPath37)"
+             style="fill:#000000;stroke:#000000" />
+          <text
+             id="text1224"
+             y="252"
+             xml:space="preserve"
+             x="201"
+             clip-path="url(#clipPath38)"
+             style="fill:#000000;stroke:none">tipovinculacion_id</text>
           <line
-             id="line1269"
-             y2="306"
-             y1="306"
-             x2="176"
-             x1="99"
-             clip-path="url(#clipPath33)"
+             id="line1226"
+             y2="196"
+             y1="196"
+             x2="306"
+             x1="179"
+             clip-path="url(#clipPath32)"
              style="fill:none" />
           <rect
-             id="rect1271"
-             y="259"
-             x="98"
-             width="79"
+             id="rect1228"
+             y="168"
+             x="178"
+             width="129"
              height="91"
              clip-path="url(#clipPath28)"
              style="fill:none" />
           <rect
-             id="rect1273"
-             y="411"
-             x="65"
-             width="139"
+             id="rect1230"
+             y="321"
+             x="180"
+             width="116"
              height="74"
-             clip-path="url(#clipPath37)"
-             style="fill:#ffffe1;stroke:none" />
-          <image
-             id="image1275"
-             y="0"
-             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAmElEQVR42mP8//8/ AyWAiYFCwAJjME648A1IcRKr8X+BASPj1KuKTORohur5/z9b+z7MC5wUeyHFQgar gjknnmCVA4kTHYhf//ylLBa4WZgJewHmJFzeIGgAKFpwhjYWOZA4igFwCUaEWlgq ZZx9QYQhzfANujiSAYz/sEnCxVIN3jCkYk/yjHBboE4iJSUSFQY0z0wUGwAAEzg/ ADwqV4IAAAAASUVORK5CYII="
-             x="0"
-             width="16"
-             transform="translate(70,416)"
-             preserveAspectRatio="none"
-             height="16"
-             clip-path="url(#clipPath38)"
-             style="fill:#ffffe1;stroke:#ffffe1" />
-          <text
-             id="text1277"
-             y="429"
-             xml:space="preserve"
-             x="89"
              clip-path="url(#clipPath39)"
-             style="fill:#000000;stroke:none">persona_tipopersona</text>
-          <rect
-             id="rect1279"
-             y="435"
-             x="67"
-             width="135"
-             height="24"
-             clip-path="url(#clipPath40)"
-             style="fill:#ffffff;stroke:none" />
-          <image
-             id="image1281"
-             y="0"
-             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA40lEQVR42mP8//8/ AyWAiYFCQLEBLCCCccIFmD8Y/xcYgPgGQPZ5JHWGQPELSOr+AvF3IOZhgQouBOJ4 JA0gzYJA/AGIwYYB1TGCLECymBskD2IoAvEDNAMYkdgPsLicEWo4IxMOBWAA8g4Q vAfiRiQ+yMXPgbgQHIggQagEukYBqPcmAnEDmu0iQNwPxBOwxgI0EEE2BwJxAZKh 6N7IxxWNoEA0BOINMM1AQ2EughlmADGl//wEkEnIUYYWhcg2LkALbENGUFIGmkxK 2lEAYk8gng5PSFj8hw88gGkeHHmBYgMA0BNI/5xkyR8AAAAASUVORK5CYII="
-             x="0"
-             width="16"
-             transform="translate(70,440)"
-             preserveAspectRatio="none"
-             height="16"
-             font-weight="bold"
-             clip-path="url(#clipPath41)"
-             style="font-weight:bold;fill:#ffffff;stroke:#ffffff" />
-          <text
-             id="text1283"
-             y="453"
-             xml:space="preserve"
-             x="89"
-             font-weight="bold"
-             clip-path="url(#clipPath42)"
-             style="font-weight:bold;fill:#000000;stroke:none">persona_id</text>
-          <line
-             id="line1285"
-             y2="435"
-             y1="435"
-             x2="202"
-             x1="67"
-             clip-path="url(#clipPath40)"
-             style="fill:none" />
-          <rect
-             id="rect1287"
-             y="459"
-             x="67"
-             width="135"
-             height="24"
-             clip-path="url(#clipPath43)"
-             style="fill:#ffffff;stroke:none" />
-          <image
-             id="image1289"
-             y="0"
-             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA40lEQVR42mP8//8/ AyWAiYFCQLEBLCCCccIFmD8Y/xcYgPgGQPZ5JHWGQPELSOr+AvF3IOZhgQouBOJ4 JA0gzYJA/AGIwYYB1TGCLECymBskD2IoAvEDNAMYkdgPsLicEWo4IxMOBWAA8g4Q vAfiRiQ+yMXPgbgQHIggQagEukYBqPcmAnEDmu0iQNwPxBOwxgI0EEE2BwJxAZKh 6N7IxxWNoEA0BOINMM1AQ2EughlmADGl//wEkEnIUYYWhcg2LkALbENGUFIGmkxK 2lEAYk8gng5PSFj8hw88gGkeHHmBYgMA0BNI/5xkyR8AAAAASUVORK5CYII="
-             x="0"
-             width="16"
-             transform="translate(70,464)"
-             preserveAspectRatio="none"
-             height="16"
-             clip-path="url(#clipPath44)"
-             style="fill:#ffffff;stroke:#ffffff" />
-          <text
-             id="text1291"
-             y="477"
-             xml:space="preserve"
-             x="89"
-             clip-path="url(#clipPath45)"
-             style="fill:#000000;stroke:none">tipopersona_id</text>
-          <line
-             id="line1293"
-             y2="459"
-             y1="459"
-             x2="202"
-             x1="67"
-             clip-path="url(#clipPath43)"
-             style="fill:none" />
-          <rect
-             id="rect1295"
-             y="412"
-             x="66"
-             width="137"
-             height="72"
-             clip-path="url(#clipPath37)"
-             style="fill:none" />
-          <rect
-             id="rect1297"
-             y="538"
-             x="90"
-             width="97"
-             height="74"
-             clip-path="url(#clipPath46)"
              style="fill:#ffffe1;stroke:none" />
           <image
-             id="image1299"
+             id="image1232"
              y="0"
              xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAmElEQVR42mP8//8/ AyWAiYFCwAJjME648A1IcRKr8X+BASPj1KuKTORohur5/z9b+z7MC5wUeyHFQgar gjknnmCVA4kTHYhf//ylLBa4WZgJewHmJFzeIGgAKFpwhjYWOZA4igFwCUaEWlgq ZZx9QYQhzfANujiSAYz/sEnCxVIN3jCkYk/yjHBboE4iJSUSFQY0z0wUGwAAEzg/ ADwqV4IAAAAASUVORK5CYII="
              x="0"
              width="16"
-             transform="translate(95,543)"
+             transform="translate(185,326)"
              preserveAspectRatio="none"
              height="16"
-             clip-path="url(#clipPath47)"
+             clip-path="url(#clipPath40)"
              style="fill:#ffffe1;stroke:#ffffe1" />
           <text
-             id="text1301"
-             y="556"
+             id="text1234"
+             y="339"
              xml:space="preserve"
-             x="114"
-             clip-path="url(#clipPath48)"
-             style="fill:#000000;stroke:none">tipo_persona</text>
+             x="204"
+             clip-path="url(#clipPath41)"
+             style="fill:#000000;stroke:none">tipo_vinculacion</text>
           <rect
-             id="rect1303"
-             y="562"
-             x="92"
-             width="93"
+             id="rect1236"
+             y="345"
+             x="182"
+             width="112"
              height="24"
-             clip-path="url(#clipPath49)"
+             clip-path="url(#clipPath42)"
              style="fill:#ffffff;stroke:none" />
           <image
-             id="image1305"
+             id="image1238"
              y="0"
              xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA40lEQVR42mP8//8/ AyWAiYFCQLEBLCCCccIFmD8Y/xcYgPgGQPZ5JHWGQPELSOr+AvF3IOZhgQouBOJ4 JA0gzYJA/AGIwYYB1TGCLECymBskD2IoAvEDNAMYkdgPsLicEWo4IxMOBWAA8g4Q vAfiRiQ+yMXPgbgQHIggQagEukYBqPcmAnEDmu0iQNwPxBOwxgI0EEE2BwJxAZKh 6N7IxxWNoEA0BOINMM1AQ2EughlmADGl//wEkEnIUYYWhcg2LkALbENGUFIGmkxK 2lEAYk8gng5PSFj8hw88gGkeHHmBYgMA0BNI/5xkyR8AAAAASUVORK5CYII="
              x="0"
              width="16"
-             transform="translate(95,567)"
+             transform="translate(185,350)"
              preserveAspectRatio="none"
              height="16"
              font-weight="bold"
              clip-path="url(#clipPath5)"
              style="font-weight:bold;fill:#ffffff;stroke:#ffffff" />
           <text
-             id="text1307"
-             y="580"
+             id="text1240"
+             y="363"
              xml:space="preserve"
-             x="114"
+             x="204"
              font-weight="bold"
-             clip-path="url(#clipPath50)"
+             clip-path="url(#clipPath43)"
              style="font-weight:bold;fill:#000000;stroke:none">id</text>
           <line
-             id="line1309"
-             y2="562"
-             y1="562"
-             x2="185"
-             x1="92"
-             clip-path="url(#clipPath49)"
+             id="line1242"
+             y2="345"
+             y1="345"
+             x2="294"
+             x1="182"
+             clip-path="url(#clipPath42)"
              style="fill:none" />
           <rect
-             id="rect1311"
-             y="586"
-             x="92"
-             width="93"
+             id="rect1244"
+             y="369"
+             x="182"
+             width="112"
              height="24"
-             clip-path="url(#clipPath51)"
+             clip-path="url(#clipPath44)"
              style="fill:#ffffff;stroke:none" />
           <image
-             id="image1313"
+             id="image1246"
              y="0"
              xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAqUlEQVR42mP8//8/ AyWAiYFCMPAGsIAIxgkXvgEpTgZGhrf/8w1EoGKQwGFk/P8/Xx9uEePEi+8Y/v8X BDK//y8w4GJk6D8P0YwKGIEYJXSBihnhhqJ5gROmAIsLGaEYlzgjE7JmDEMYGe+D MRFhgDUxAP2uiFWeicEcwmD+x4LP30ga/6AY8I/hBITxFx6NEKczMfnjcKgBmJI1 YEERZufkZRxNypQbAAA8nTT4ziswsQAAAABJRU5ErkJggg=="
              x="0"
              width="16"
-             transform="translate(95,591)"
+             transform="translate(185,374)"
              preserveAspectRatio="none"
              height="16"
              clip-path="url(#clipPath8)"
              style="fill:#ffffff;stroke:#ffffff" />
           <text
-             id="text1315"
-             y="604"
+             id="text1248"
+             y="387"
              xml:space="preserve"
-             x="114"
-             clip-path="url(#clipPath52)"
+             x="204"
+             clip-path="url(#clipPath45)"
              style="fill:#000000;stroke:none">nombre</text>
           <line
-             id="line1317"
-             y2="586"
-             y1="586"
-             x2="185"
-             x1="92"
-             clip-path="url(#clipPath51)"
+             id="line1250"
+             y2="369"
+             y1="369"
+             x2="294"
+             x1="182"
+             clip-path="url(#clipPath44)"
              style="fill:none" />
           <rect
-             id="rect1319"
-             y="539"
-             x="91"
-             width="95"
+             id="rect1252"
+             y="322"
+             x="181"
+             width="114"
              height="72"
-             clip-path="url(#clipPath46)"
+             clip-path="url(#clipPath39)"
              style="fill:none" />
           <line
-             id="line1321"
-             y2="201"
-             y1="256"
-             x2="487"
-             x1="486"
-             clip-path="url(#clipPath53)"
+             id="line1254"
+             y2="107"
+             y1="162"
+             x2="429"
+             x1="428"
+             clip-path="url(#clipPath46)"
              style="fill:none;stroke-width:1;stroke-dasharray:5" />
         </g>
         <g
-           id="g1415"
+           id="g1336"
            style="font-family:'Segoe UI';stroke-linecap:butt;stroke-dasharray:5">
           <circle
-             id="circle1325"
+             id="circle1258"
              r="2.5"
-             cy="252.5"
-             cx="486.5"
-             clip-path="url(#clipPath54)"
+             cy="158.5"
+             cx="428.5"
+             clip-path="url(#clipPath47)"
              style="stroke:none" />
           <circle
-             id="circle1327"
+             id="circle1260"
              r="3"
-             cy="253"
-             cx="487"
-             clip-path="url(#clipPath54)"
+             cy="159"
+             cx="429"
+             clip-path="url(#clipPath47)"
              style="fill:none;stroke:#008fcf;stroke-dasharray:none" />
           <polygon
-             id="polygon1329"
-             points="482,206 487,201 492,206 487,211 "
-             clip-path="url(#clipPath55)"
+             id="polygon1262"
+             points="429,117 424,112 429,107 434,112 "
+             clip-path="url(#clipPath48)"
              style="fill:#ffffff;stroke:none;stroke-dasharray:none" />
           <polygon
-             id="polygon1331"
-             points="482,206 487,201 492,206 487,211 "
-             clip-path="url(#clipPath55)"
+             id="polygon1264"
+             points="429,117 424,112 429,107 434,112 "
+             clip-path="url(#clipPath48)"
              style="fill:none;stroke:#008fcf;stroke-dasharray:none" />
           <line
-             id="line1333"
-             y2="304"
-             y1="306"
-             x2="436"
-             x1="351"
-             clip-path="url(#clipPath56)"
+             id="line1266"
+             y2="210"
+             y1="212"
+             x2="378"
+             x1="308"
+             clip-path="url(#clipPath49)"
              style="fill:none;stroke:#008fcf" />
           <circle
-             id="circle1335"
+             id="circle1268"
              r="2.5"
-             cy="304.5"
-             cx="353.5"
-             clip-path="url(#clipPath57)"
+             cy="210.5"
+             cx="310.5"
+             clip-path="url(#clipPath50)"
              style="stroke:none" />
           <circle
-             id="circle1337"
+             id="circle1270"
              r="3"
-             cy="305"
-             cx="354"
-             clip-path="url(#clipPath57)"
+             cy="211"
+             cx="311"
+             clip-path="url(#clipPath50)"
              style="fill:none;stroke:#008fcf;stroke-dasharray:none" />
           <polygon
-             id="polygon1339"
-             points="431,299 436,304 431,309 426,304 "
-             clip-path="url(#clipPath58)"
+             id="polygon1272"
+             points="368,210 373,205 378,210 373,215 "
+             clip-path="url(#clipPath51)"
              style="fill:#ffffff;stroke:none;stroke-dasharray:none" />
           <polygon
-             id="polygon1341"
-             points="431,299 436,304 431,309 426,304 "
-             clip-path="url(#clipPath58)"
+             id="polygon1274"
+             points="368,210 373,205 378,210 373,215 "
+             clip-path="url(#clipPath51)"
              style="fill:none;stroke:#008fcf;stroke-dasharray:none" />
           <line
-             id="line1343"
-             y2="305"
-             y1="306"
-             x2="178"
-             x1="258"
-             clip-path="url(#clipPath59)"
+             id="line1276"
+             y2="211"
+             y1="212"
+             x2="120"
+             x1="176"
+             clip-path="url(#clipPath52)"
              style="fill:none;stroke:#008fcf" />
           <circle
-             id="circle1345"
+             id="circle1278"
              r="2.5"
-             cy="304.5"
-             cx="254.5"
-             clip-path="url(#clipPath60)"
-             style="stroke:none" />
-          <circle
-             id="circle1347"
-             r="3"
-             cy="305"
-             cx="255"
-             clip-path="url(#clipPath60)"
-             style="fill:none;stroke:#008fcf;stroke-dasharray:none" />
-          <polygon
-             id="polygon1349"
-             points="183,310 178,305 183,300 188,305 "
-             clip-path="url(#clipPath61)"
-             style="fill:#ffffff;stroke:none;stroke-dasharray:none" />
-          <polygon
-             id="polygon1351"
-             points="183,310 178,305 183,300 188,305 "
-             clip-path="url(#clipPath61)"
-             style="fill:none;stroke:#008fcf;stroke-dasharray:none" />
-          <line
-             id="line1353"
-             y2="351"
-             y1="410"
-             x2="136"
-             x1="135"
-             clip-path="url(#clipPath62)"
-             style="fill:none;stroke:#008fcf;stroke-dasharray:none" />
-          <circle
-             id="circle1355"
-             r="2.5"
-             cy="406.5"
-             cx="135.5"
-             clip-path="url(#clipPath63)"
-             style="stroke:none;stroke-dasharray:none" />
-          <circle
-             id="circle1357"
-             r="3"
-             cy="407"
-             cx="136"
-             clip-path="url(#clipPath63)"
-             style="fill:none;stroke:#008fcf;stroke-dasharray:none" />
-          <line
-             id="line1359"
-             y2="537"
-             y1="485"
-             x2="137"
-             x1="135"
-             clip-path="url(#clipPath64)"
-             style="fill:none;stroke:#008fcf" />
-          <circle
-             id="circle1361"
-             r="2.5"
-             cy="487.5"
-             cx="135.5"
-             clip-path="url(#clipPath65)"
-             style="stroke:none" />
-          <circle
-             id="circle1363"
-             r="3"
-             cy="488"
-             cx="136"
-             clip-path="url(#clipPath65)"
-             style="fill:none;stroke:#008fcf;stroke-dasharray:none" />
-          <polygon
-             id="polygon1365"
-             points="142,532 137,537 132,532 137,527 "
-             clip-path="url(#clipPath66)"
-             style="fill:#ffffff;stroke:none;stroke-dasharray:none" />
-          <polygon
-             id="polygon1367"
-             points="142,532 137,537 132,532 137,527 "
-             clip-path="url(#clipPath66)"
-             style="fill:none;stroke:#008fcf;stroke-dasharray:none" />
-          <line
-             id="line1369"
-             y2="201"
-             y1="256"
-             x2="487"
-             x1="486"
+             cy="210.5"
+             cx="172.5"
              clip-path="url(#clipPath53)"
-             style="fill:none;stroke:#008fcf" />
-          <circle
-             id="circle1371"
-             r="2.5"
-             cy="252.5"
-             cx="486.5"
-             clip-path="url(#clipPath54)"
              style="stroke:none" />
           <circle
-             id="circle1373"
+             id="circle1280"
              r="3"
-             cy="253"
-             cx="487"
-             clip-path="url(#clipPath54)"
+             cy="211"
+             cx="173"
+             clip-path="url(#clipPath53)"
              style="fill:none;stroke:#008fcf;stroke-dasharray:none" />
           <polygon
-             id="polygon1375"
-             points="482,206 487,201 492,206 487,211 "
-             clip-path="url(#clipPath55)"
+             id="polygon1282"
+             points="130,211 125,216 120,211 125,206 "
+             clip-path="url(#clipPath54)"
              style="fill:#ffffff;stroke:none;stroke-dasharray:none" />
           <polygon
-             id="polygon1377"
-             points="482,206 487,201 492,206 487,211 "
-             clip-path="url(#clipPath55)"
+             id="polygon1284"
+             points="130,211 125,216 120,211 125,206 "
+             clip-path="url(#clipPath54)"
              style="fill:none;stroke:#008fcf;stroke-dasharray:none" />
           <line
-             id="line1379"
-             y2="304"
-             y1="306"
-             x2="436"
-             x1="351"
+             id="line1286"
+             y2="320"
+             y1="260"
+             x2="239"
+             x1="241"
+             clip-path="url(#clipPath55)"
+             style="fill:none;stroke:#008fcf" />
+          <circle
+             id="circle1288"
+             r="2.5"
+             cy="262.5"
+             cx="239.5"
              clip-path="url(#clipPath56)"
-             style="fill:none;stroke:#008fcf" />
+             style="stroke:none" />
           <circle
-             id="circle1381"
-             r="2.5"
-             cy="304.5"
-             cx="353.5"
+             id="circle1290"
+             r="3"
+             cy="263"
+             cx="240"
+             clip-path="url(#clipPath56)"
+             style="fill:none;stroke:#008fcf;stroke-dasharray:none" />
+          <polygon
+             id="polygon1292"
+             points="239,310 244,315 239,320 234,315 "
              clip-path="url(#clipPath57)"
-             style="stroke:none" />
-          <circle
-             id="circle1383"
-             r="3"
-             cy="305"
-             cx="354"
+             style="fill:#ffffff;stroke:none;stroke-dasharray:none" />
+          <polygon
+             id="polygon1294"
+             points="239,310 244,315 239,320 234,315 "
              clip-path="url(#clipPath57)"
              style="fill:none;stroke:#008fcf;stroke-dasharray:none" />
-          <polygon
-             id="polygon1385"
-             points="431,299 436,304 431,309 426,304 "
-             clip-path="url(#clipPath58)"
-             style="fill:#ffffff;stroke:none;stroke-dasharray:none" />
-          <polygon
-             id="polygon1387"
-             points="431,299 436,304 431,309 426,304 "
-             clip-path="url(#clipPath58)"
-             style="fill:none;stroke:#008fcf;stroke-dasharray:none" />
           <line
-             id="line1389"
-             y2="305"
-             y1="306"
-             x2="178"
-             x1="258"
-             clip-path="url(#clipPath59)"
+             id="line1296"
+             y2="107"
+             y1="162"
+             x2="429"
+             x1="428"
+             clip-path="url(#clipPath46)"
              style="fill:none;stroke:#008fcf" />
           <circle
-             id="circle1391"
+             id="circle1298"
              r="2.5"
-             cy="304.5"
-             cx="254.5"
-             clip-path="url(#clipPath60)"
+             cy="158.5"
+             cx="428.5"
+             clip-path="url(#clipPath47)"
              style="stroke:none" />
           <circle
-             id="circle1393"
+             id="circle1300"
              r="3"
-             cy="305"
-             cx="255"
-             clip-path="url(#clipPath60)"
+             cy="159"
+             cx="429"
+             clip-path="url(#clipPath47)"
              style="fill:none;stroke:#008fcf;stroke-dasharray:none" />
           <polygon
-             id="polygon1395"
-             points="183,310 178,305 183,300 188,305 "
-             clip-path="url(#clipPath61)"
+             id="polygon1302"
+             points="429,117 424,112 429,107 434,112 "
+             clip-path="url(#clipPath48)"
              style="fill:#ffffff;stroke:none;stroke-dasharray:none" />
           <polygon
-             id="polygon1397"
-             points="183,310 178,305 183,300 188,305 "
-             clip-path="url(#clipPath61)"
+             id="polygon1304"
+             points="429,117 424,112 429,107 434,112 "
+             clip-path="url(#clipPath48)"
              style="fill:none;stroke:#008fcf;stroke-dasharray:none" />
           <line
-             id="line1399"
-             y2="351"
-             y1="410"
-             x2="136"
-             x1="135"
-             clip-path="url(#clipPath62)"
-             style="fill:none;stroke:#008fcf;stroke-dasharray:none" />
-          <circle
-             id="circle1401"
-             r="2.5"
-             cy="406.5"
-             cx="135.5"
-             clip-path="url(#clipPath63)"
-             style="stroke:none;stroke-dasharray:none" />
-          <circle
-             id="circle1403"
-             r="3"
-             cy="407"
-             cx="136"
-             clip-path="url(#clipPath63)"
-             style="fill:none;stroke:#008fcf;stroke-dasharray:none" />
-          <line
-             id="line1405"
-             y2="537"
-             y1="485"
-             x2="137"
-             x1="135"
-             clip-path="url(#clipPath64)"
+             id="line1306"
+             y2="210"
+             y1="212"
+             x2="378"
+             x1="308"
+             clip-path="url(#clipPath49)"
              style="fill:none;stroke:#008fcf" />
           <circle
-             id="circle1407"
+             id="circle1308"
              r="2.5"
-             cy="487.5"
-             cx="135.5"
-             clip-path="url(#clipPath65)"
+             cy="210.5"
+             cx="310.5"
+             clip-path="url(#clipPath50)"
              style="stroke:none" />
           <circle
-             id="circle1409"
+             id="circle1310"
              r="3"
-             cy="488"
-             cx="136"
-             clip-path="url(#clipPath65)"
+             cy="211"
+             cx="311"
+             clip-path="url(#clipPath50)"
              style="fill:none;stroke:#008fcf;stroke-dasharray:none" />
           <polygon
-             id="polygon1411"
-             points="142,532 137,537 132,532 137,527 "
-             clip-path="url(#clipPath66)"
+             id="polygon1312"
+             points="368,210 373,205 378,210 373,215 "
+             clip-path="url(#clipPath51)"
              style="fill:#ffffff;stroke:none;stroke-dasharray:none" />
           <polygon
-             id="polygon1413"
-             points="142,532 137,537 132,532 137,527 "
-             clip-path="url(#clipPath66)"
+             id="polygon1314"
+             points="368,210 373,205 378,210 373,215 "
+             clip-path="url(#clipPath51)"
+             style="fill:none;stroke:#008fcf;stroke-dasharray:none" />
+          <line
+             id="line1316"
+             y2="211"
+             y1="212"
+             x2="120"
+             x1="176"
+             clip-path="url(#clipPath52)"
+             style="fill:none;stroke:#008fcf" />
+          <circle
+             id="circle1318"
+             r="2.5"
+             cy="210.5"
+             cx="172.5"
+             clip-path="url(#clipPath53)"
+             style="stroke:none" />
+          <circle
+             id="circle1320"
+             r="3"
+             cy="211"
+             cx="173"
+             clip-path="url(#clipPath53)"
+             style="fill:none;stroke:#008fcf;stroke-dasharray:none" />
+          <polygon
+             id="polygon1322"
+             points="130,211 125,216 120,211 125,206 "
+             clip-path="url(#clipPath54)"
+             style="fill:#ffffff;stroke:none;stroke-dasharray:none" />
+          <polygon
+             id="polygon1324"
+             points="130,211 125,216 120,211 125,206 "
+             clip-path="url(#clipPath54)"
+             style="fill:none;stroke:#008fcf;stroke-dasharray:none" />
+          <line
+             id="line1326"
+             y2="320"
+             y1="260"
+             x2="239"
+             x1="241"
+             clip-path="url(#clipPath55)"
+             style="fill:none;stroke:#008fcf" />
+          <circle
+             id="circle1328"
+             r="2.5"
+             cy="262.5"
+             cx="239.5"
+             clip-path="url(#clipPath56)"
+             style="stroke:none" />
+          <circle
+             id="circle1330"
+             r="3"
+             cy="263"
+             cx="240"
+             clip-path="url(#clipPath56)"
+             style="fill:none;stroke:#008fcf;stroke-dasharray:none" />
+          <polygon
+             id="polygon1332"
+             points="239,310 244,315 239,320 234,315 "
+             clip-path="url(#clipPath57)"
+             style="fill:#ffffff;stroke:none;stroke-dasharray:none" />
+          <polygon
+             id="polygon1334"
+             points="239,310 244,315 239,320 234,315 "
+             clip-path="url(#clipPath57)"
              style="fill:none;stroke:#008fcf;stroke-dasharray:none" />
         </g>
       </g>
