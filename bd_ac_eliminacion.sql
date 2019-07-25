@@ -15,6 +15,7 @@ DROP TABLE registro_asistencia;
 ALTER TABLE asamblea DROP CONSTRAINT asamblea_conjunto_fk;
 DROP TABLE asamblea;
 
+ALTER TABLE usuario_conjunto DROP CONSTRAINT usuarioconjunto_pk;
 ALTER TABLE usuario_conjunto DROP CONSTRAINT usuarioconjunto_usuario_fk;
 ALTER TABLE usuario_conjunto DROP CONSTRAINT usuarioconjunto_conjunto_fk;
 DROP TABLE usuario_conjunto;

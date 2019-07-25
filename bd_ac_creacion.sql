@@ -55,6 +55,7 @@ CREATE TABLE tipo_vinculacion(
 );
 
 CREATE TABLE vinculacion(
+	id SERIAL PRIMARY KEY,
 	persona_id INT,
 	imueble_id INT,
 	tipovinculacion_id NUMERIC(2)
@@ -87,8 +88,8 @@ CREATE TABLE usuario(
 	id SERIAL PRIMARY KEY,
 	tipousuario_id NUMERIC(2),
 	persona_id INT,
-	nombre VARCHAR(20)
-	--contrasenia
+	nombre VARCHAR(20),
+	contrasenia VARCHAR(255)
 );
 
 ALTER TABLE usuario ADD CONSTRAINT usuario_tipousuario_fk 
@@ -119,6 +120,9 @@ ALTER TABLE usuario_conjunto ADD CONSTRAINT usuarioconjunto_conjunto_fk
 	REFERENCES conjunto(id)
 	ON DELETE NO ACTION
 	ON UPDATE NO ACTION;
+	
+ALTER TABLE usuario_conjunto ADD CONSTRAINT usuarioconjunto_pk
+	PRIMARY KEY (usuario_id, conjunto_id);
 	
 CREATE TABLE asamblea(
 	id SERIAL PRIMARY KEY,
