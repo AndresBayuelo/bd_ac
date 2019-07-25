@@ -1,4 +1,4 @@
-ALTER TABLE registro_votacion DROP CONSTRAINT registrovotacion_imueble_fk;
+ALTER TABLE registro_votacion DROP CONSTRAINT registrovotacion_inmueble_fk;
 ALTER TABLE registro_votacion DROP CONSTRAINT registrovotacion_opcionrespuesta_fk;
 DROP TABLE registro_votacion;
 
@@ -8,7 +8,7 @@ DROP TABLE opcion_respuesta;
 ALTER TABLE propuesta DROP CONSTRAINT propuesta_asamblea_fk;
 DROP TABLE propuesta;
 
-ALTER TABLE registro_asistencia DROP CONSTRAINT registroasistencia_imueble_fk;
+ALTER TABLE registro_asistencia DROP CONSTRAINT registroasistencia_inmueble_fk;
 ALTER TABLE registro_asistencia DROP CONSTRAINT registroasistencia_asamblea_fk;
 DROP TABLE registro_asistencia;
 
@@ -27,7 +27,7 @@ DROP TABLE usuario;
 DROP TABLE tipo_usuario;
 
 ALTER TABLE vinculacion DROP CONSTRAINT vinculacion_tipovinculacion_fk;
-ALTER TABLE vinculacion DROP CONSTRAINT vinculacion_imueble_fk;
+ALTER TABLE vinculacion DROP CONSTRAINT vinculacion_inmueble_fk;
 ALTER TABLE vinculacion DROP CONSTRAINT vinculacion_persona_fk;
 DROP TABLE vinculacion;
 
@@ -35,14 +35,14 @@ DROP TABLE tipo_vinculacion;
 
 DROP TABLE persona;
 
-ALTER TABLE historia_imueble DROP CONSTRAINT historiaimueble_servicio_fk;
-ALTER TABLE historia_imueble DROP CONSTRAINT historiaimueble_imueble_fk;
-DROP TABLE historia_imueble;
+ALTER TABLE historia_inmueble DROP CONSTRAINT historiainmueble_servicio_fk;
+ALTER TABLE historia_inmueble DROP CONSTRAINT historiainmueble_inmueble_fk;
+DROP TABLE historia_inmueble;
 
 DROP TABLE servicio;
 
-ALTER TABLE imueble DROP CONSTRAINT imueble_conjunto_fk;
-DROP TABLE imueble;
+ALTER TABLE inmueble DROP CONSTRAINT inmueble_conjunto_fk;
+DROP TABLE inmueble;
 
 DROP TABLE conjunto;
 
