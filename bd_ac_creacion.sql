@@ -2,13 +2,13 @@ CREATE DATABASE bd_ac;
 
 CREATE TABLE conjunto(
 	cjt_id SERIAL PRIMARY KEY,
-	cjt_nombre VARCHAR(50)
+	cjt_nombre VARCHAR(50) NOT NULL
 );
 
 CREATE TABLE inmueble(
 	imbl_id SERIAL PRIMARY KEY,
 	conjunto_id INT,
-	imbl_numero NUMERIC(4)
+	imbl_numero NUMERIC(4) NOT NULL
 );
 
 ALTER TABLE inmueble ADD CONSTRAINT inmueble_conjunto_fk 
@@ -19,16 +19,19 @@ ALTER TABLE inmueble ADD CONSTRAINT inmueble_conjunto_fk
 
 CREATE TABLE servicio(
 	svc_id SERIAL PRIMARY KEY,
-	svc_fecha DATE,
-	svc_descripcion TEXT,
-	svc_valor NUMERIC(10)
+	svc_fecha DATE NOT NULL,
+	svc_descripcion TEXT NOT NULL,
+	svc_valor NUMERIC(10) NOT NULL 
 );
+
+ALTER TABLE servicio ADD CONSTRAINT ck_servicio_valor_positivo
+	CHECK (svc_valor>0);
 
 CREATE TABLE historia_inmueble(
 	himbl_id SERIAL PRIMARY KEY,
 	inmueble_id INT,
 	servicio_id INT,
-	himbl_fecha DATE
+	himbl_fecha DATE NOT NULL
 );
 
 ALTER TABLE historia_inmueble ADD CONSTRAINT historiainmueble_inmueble_fk 
@@ -45,13 +48,13 @@ ALTER TABLE historia_inmueble ADD CONSTRAINT historiainmueble_servicio_fk
 	
 CREATE TABLE persona(
 	prn_id SERIAL PRIMARY KEY,
-	prn_nombres VARCHAR(50),
-	prn_apellidos VARcHAR(50)
+	prn_nombres VARCHAR(50) NOT NULL,
+	prn_apellidos VARCHAR(50) NOT NULL
 );
 
 CREATE TABLE tipo_vinculacion(
 	tvcl_id NUMERIC(2) PRIMARY KEY,
-	tvcl_nombre VARCHAR(20)
+	tvcl_nombre VARCHAR(20) NOT NULL
 );
 
 CREATE TABLE vinculacion(
@@ -81,15 +84,15 @@ ALTER TABLE vinculacion ADD CONSTRAINT vinculacion_tipovinculacion_fk
 
 CREATE TABLE tipo_usuario(
 	tusr_id NUMERIC(2) PRIMARY KEY,
-	tusr_nombre VARCHAR(20)
+	tusr_nombre VARCHAR(20) NOT NULL
 );
 
 CREATE TABLE usuario(
 	usr_id SERIAL PRIMARY KEY,
 	tipousuario_id NUMERIC(2),
 	persona_id INT,
-	usr_nombre VARCHAR(20),
-	usr_contrasenia VARCHAR(255)
+	usr_nombre VARCHAR(20) UNIQUE NOT NULL,
+	usr_contrasenia VARCHAR(255) NOT NULL
 );
 
 ALTER TABLE usuario ADD CONSTRAINT usuario_tipousuario_fk 
@@ -127,7 +130,7 @@ ALTER TABLE usuario_conjunto ADD CONSTRAINT usuarioconjunto_pk
 CREATE TABLE asamblea(
 	asbl_id SERIAL PRIMARY KEY,
 	conjunto_id INT,
-	asbl_fecha DATE
+	asbl_fecha DATE NOT NULL
 );
 
 ALTER TABLE asamblea ADD CONSTRAINT asamblea_conjunto_fk 
@@ -157,7 +160,7 @@ ALTER TABLE registro_asistencia ADD CONSTRAINT registroasistencia_inmueble_fk
 CREATE TABLE propuesta(
 	prp_id SERIAL PRIMARY KEY,
 	asamblea_id INT,
-	prp_descripcion TEXT
+	prp_descripcion TEXT NOT NULL
 );
 
 ALTER TABLE propuesta ADD CONSTRAINT propuesta_asamblea_fk 
@@ -169,7 +172,7 @@ ALTER TABLE propuesta ADD CONSTRAINT propuesta_asamblea_fk
 CREATE TABLE opcion_respuesta(
 	orpt_id SERIAL PRIMARY KEY,
 	propuesta_id INT,
-	orpt_descripcion TEXT,
+	orpt_descripcion TEXT NOT NULL,
 	orpt_votacion NUMERIC(3)
 );
 
